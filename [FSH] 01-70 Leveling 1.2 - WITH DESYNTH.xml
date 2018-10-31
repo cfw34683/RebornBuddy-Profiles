@@ -1,13 +1,13 @@
 <!--
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Profile: [FSH] 60-70 Leveling 1.0 - SNL                
- Author: Str8_no_life                           
+ Profile: [FSH] 60-70 Leveling 1.0 - LP
+ Author: Lamp Shade
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Version: 1.0                                     
+ Version: 1.2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -->
 <Profile>
-	<Name>[FSH] 60-70 Leveling 1.0 - SNL</Name>
+	<Name>[FSH] 60-70 Leveling 1.2 - LP</Name>
 	<Order>	
 		<While Condition="Core.Player.ClassLevel &lt; 63">
 			<If Condition="not HasAtLeast(20613,198)">
