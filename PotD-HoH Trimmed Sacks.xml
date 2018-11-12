@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE Profile []>
 <Profile>
-    <Name>Trimmed Sacks</Name>
-    <Author>Lycorisrda</Author>
+    <Name>Trimmed Sacks 2.0</Name>
+    <Author>Lampshade/cfw34683</Author>
     <KillRadius>50</KillRadius>
     <CodeChunks>
         <CodeChunk Name="InteractPOTD">
@@ -126,66 +126,59 @@
         </CodeChunk>
     </CodeChunks>
     <Order>
-		<If Condition="HasAtLeast(16170,1) and HasAtLeast(16171,1) and HasAtLeast(16172,1) and HasAtLeast(16173,1) and FreeItemSlots() &gt; 0"> <!-- Palace of the Dead -->
-			<While Condition="FreeItemSlots() &gt; 0">
-				<If Condition="not IsOnMap(153)">
-					<GetTo XYZ="181.2618, 8.928072, -39.13947" ZoneId="153" />
-				</If>            
-				<MoveTo Name="Expedition Bishop" XYZ="181.2618, 8.928072, -39.13947" />
-				<If Condition="HasAtLeast(16170,1) and FreeItemSlots() &gt; 0">
-					<RunCode name="InteractPOTD" />
-					<WaitTimer WaitTime="3" />
-					<RunCode name="BronzeSackPOTD" />
-					<WaitTimer WaitTime="3" />
-				</If>
-				<If Condition="HasAtLeast(16171,1) and FreeItemSlots() &gt; 0">
-					<RunCode name="Interact" />
-					<WaitTimer WaitTime="3" />
-					<RunCode name="IronSackPOTD" />
-					<WaitTimer WaitTime="3" />
-				</If>
-				<If Condition="HasAtLeast(16172,1) and FreeItemSlots() &gt; 0">
-					<RunCode name="Interact" />
-					<WaitTimer WaitTime="3" />
-					<RunCode name="SilverSackPOTD" />
-					<WaitTimer WaitTime="3" />
-				</If>
-				<If Condition="HasAtLeast(16173,1) and FreeItemSlots() &gt; 0">
-					<RunCode name="Interact" />
-					<WaitTimer WaitTime="3" />
-					<RunCode name="GoldSackPOTD" />
-					<WaitTimer WaitTime="3" />
-				</If>
-			</While>
-		</If>
-		<If Condition="HasAtLeast(23223,1) and HasAtLeast(23224,1) and HasAtLeast(23225,1) and FreeItemSlots() &gt; 0"> <!-- Heaven on High -->
-			<While Condition="FreeItemSlots() &gt; 0">
-				<If Condition="not IsOnMap(613)">
-					<GetTo XYZ="-7.370307, 2.892887, -608.9281" ZoneId="613" />
-				</If>            
-				<MoveTo Name="Confederate Appraiser" XYZ="-6.912354, 2.945007, -612.1157" />
-				<If Condition="HasAtLeast(23223,1) and FreeItemSlots() &gt; 0">
-					<RunCode name="InteractHOH" />
-					<WaitTimer WaitTime="3" />
-					<RunCode name="SilverSackHOH" />
-					<WaitTimer WaitTime="3" />
-				</If>
-				<If Condition="HasAtLeast(23224,1) and FreeItemSlots() &gt; 0">
-					<RunCode name="InteractHOH" />
-					<WaitTimer WaitTime="3" />
-					<RunCode name="GoldsackHOH" />
-					<WaitTimer WaitTime="3" />
-				</If>
-				<If Condition="HasAtLeast(23225,1) and FreeItemSlots() &gt; 0">
-					<RunCode name="InteractHOH" />
-					<WaitTimer WaitTime="3" />
-					<RunCode name="PlatinumSackHOH" />
-					<WaitTimer WaitTime="3" />
-				</If>
-			</While>
-		</If>
-        <If Condition="FreeItemSlots() = 0">
-            <LogMessage Message="Inventory Full" />
-        </If>
-    </Order>
-</Profile>
+		<!-- Palace of the Dead -->
+		<While Condition="FreeItemSlots() &gt; 0">
+			<If Condition="not IsOnMap(153)">
+				<GetTo XYZ="181.2618, 8.928072, -39.13947" ZoneId="153" />
+			</If>            
+			<MoveTo Name="Expedition Bishop" XYZ="181.2618, 8.928072, -39.13947" />
+			<If Condition="HasAtLeast(16170,1) and FreeItemSlots() &gt; 0">
+				<RunCode name="InteractPOTD" />
+				<WaitTimer WaitTime="3" />
+				<RunCode name="BronzeSackPOTD" />
+				<WaitTimer WaitTime="3" />
+			</If>
+			<If Condition="HasAtLeast(16171,1) and FreeItemSlots() &gt; 0">
+				<RunCode name="InteractPOTD" />
+				<WaitTimer WaitTime="3" />
+				<RunCode name="IronSackPOTD" />
+				<WaitTimer WaitTime="3" />
+			</If>
+			<If Condition="HasAtLeast(16172,1) and FreeItemSlots() &gt; 0">
+				<RunCode name="InteractPOTD" />
+				<WaitTimer WaitTime="3" />
+				<RunCode name="SilverSackPOTD" />
+				<WaitTimer WaitTime="3" />
+			</If>
+			<If Condition="HasAtLeast(16173,1) and FreeItemSlots() &gt; 0">
+				<RunCode name="InteractPOTD" />
+				<WaitTimer WaitTime="3" />
+				<RunCode name="GoldSackPOTD" />
+				<WaitTimer WaitTime="3" />
+			</If>
+		<!-- Heaven on High -->
+			<If Condition="not IsOnMap(613)">
+				<GetTo XYZ="-7.370307, 2.892887, -608.9281" ZoneId="613" />
+			</If>            
+			<MoveTo Name="Confederate Appraiser" XYZ="-6.912354, 2.945007, -612.1157" />
+			<If Condition="HasAtLeast(23223,1) and FreeItemSlots() &gt; 0">
+				<RunCode name="InteractHOH" />
+				<WaitTimer WaitTime="3" />
+				<RunCode name="SilverSackHOH" />
+				<WaitTimer WaitTime="3" />
+			</If>
+			<If Condition="HasAtLeast(23224,1) and FreeItemSlots() &gt; 0">
+				<RunCode name="InteractHOH" />
+				<WaitTimer WaitTime="3" />
+				<RunCode name="GoldsackHOH" />
+				<WaitTimer WaitTime="3" />
+			</If>
+			<If Condition="HasAtLeast(23225,1) and FreeItemSlots() &gt; 0">
+				<RunCode name="InteractHOH" />
+				<WaitTimer WaitTime="3" />
+				<RunCode name="PlatinumSackHOH" />
+				<WaitTimer WaitTime="3" />
+			</If>
+		</While>
+	</Order>
+</Profile> 
