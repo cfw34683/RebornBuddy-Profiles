@@ -2,7 +2,7 @@
 <!DOCTYPE Profile []>
 <Profile>
     <Name>Trimmed Sacks 2.0</Name>
-    <Author>Lampshade/cfw34683</Author>
+    <Author>Lampshade/cfw34683 subverted-Lycorisrda-</Author>
     <KillRadius>50</KillRadius>
     <CodeChunks>
         <CodeChunk Name="InteractPOTD">
