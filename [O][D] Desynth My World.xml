@@ -13,7 +13,15 @@ IE: <!ENTITY Item_Id "12721, 12730, 12731, 12770, 12794, 12804">
 	<Name>[O][D] Desynth My World</Name>
 	<Author>cfw34683</Author>
 	<Order>
-		<ExSalvage ItemIds="&Item_Id;" />
+		<!-- <ExSalvage ItemIds="&Item_Id;" /> -->
+		<!-- <ExSalvage EquipmentCategory="Head" /> -->
+		<!-- <ExSalvage EquipmentCategory="Feet" /> -->
+		<!-- <ExSalvage EquipmentCategory="Bracelets" /> -->
+		<!-- <ExSalvage EquipmentCategory="Shield" /> -->
+		<!-- <ExSalvage EquipmentCategory="Ring" /> -->
+		<!-- <ExSalvage EquipmentCategory="Hands" /> -->
+		<!-- <ExSalvage EquipmentCategory="Earrings" /> -->
+		<!-- <ExSalvage EquipmentCategory="Seafood" /> -->
 		<ExLog Color="#FF00FFFF" Message="*** Completed Desynthing All Requested Items ***"/>
 	</Order>
 </Profile>
