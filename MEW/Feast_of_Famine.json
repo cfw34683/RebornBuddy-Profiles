@@ -1,0 +1,5006 @@
+{
+  "Unown": false,
+  "Psyduck": true,
+  "Snorlax": false,
+  "Slowpoke": false,
+  "Onix": false,
+  "Magikarp": false,
+  "Ditto": false,
+  "TurnInAfterLoop": false,
+  "MinimumFreeSlotTurnIn": "140",
+  "TurnInCity": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "ShopCity": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "HiCordial": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "20",
+    "Id__Si": "12669",
+    "Name__Si": "Hi-Cordial",
+    "Quantity": "0"
+  },
+  "CommercialSurvivalManual": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "30",
+    "Id__Si": "12668",
+    "Name__Si": "Commercial Survival Manual",
+    "Quantity": "0"
+  },
+  "BruteLeech": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "1",
+    "Id__Si": "12711",
+    "Name__Si": "Brute Leech",
+    "Quantity": "0"
+  },
+  "RedBalloon": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "1",
+    "Id__Si": "12708",
+    "Name__Si": "Red Balloon",
+    "Quantity": "0"
+  },
+  "GiantCraneFly": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "1",
+    "Id__Si": "12712",
+    "Name__Si": "Giant Crane Fly",
+    "Quantity": "0"
+  },
+  "MagmaWorm": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "1",
+    "Id__Si": "12709",
+    "Name__Si": "Magma Worm",
+    "Quantity": "0"
+  },
+  "FiendWorm": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "1",
+    "Id__Si": "12710",
+    "Name__Si": "Fiend Worm",
+    "Quantity": "0"
+  },
+  "GuerdonIv": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "25",
+    "Id__Si": "5687",
+    "Name__Si": "Guerdon Materia IV",
+    "Quantity": "0"
+  },
+  "GuerdonV": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "400",
+    "Id__Si": "5688",
+    "Name__Si": "Guerdon Materia V",
+    "Quantity": "0"
+  },
+  "GuileIv": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "25",
+    "Id__Si": "5692",
+    "Name__Si": "Guile Materia IV",
+    "Quantity": "0"
+  },
+  "GuileV": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "400",
+    "Id__Si": "5693",
+    "Name__Si": "Guile Materia V",
+    "Quantity": "0"
+  },
+  "GraspIv": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "25",
+    "Id__Si": "5697",
+    "Name__Si": "Grasp Materia IV",
+    "Quantity": "0"
+  },
+  "GraspV": {
+    "Categ__Si": "Red Scrips (50)",
+    "Cost__Si": "400",
+    "Id__Si": "5698",
+    "Name__Si": "Grasp Materia V",
+    "Quantity": "0"
+  },
+  "BlueGatherToken": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "25",
+    "Id__Si": "12841",
+    "Name__Si": "Blue Gather Token",
+    "Quantity": "0"
+  },
+  "GoblinDice": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "25",
+    "Id__Si": "14105",
+    "Name__Si": "Goblin Dice",
+    "Quantity": "0"
+  },
+  "TrailblazersScarf": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "100",
+    "Id__Si": "11986",
+    "Name__Si": "Trailblazer's Scarf",
+    "Quantity": "0"
+  },
+  "TrailblazersVest": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "135",
+    "Id__Si": "11991",
+    "Name__Si": "Trailblazer's Vest",
+    "Quantity": "0"
+  },
+  "TrailblazersWristguards": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "75",
+    "Id__Si": "11996",
+    "Name__Si": "Trailblazer's Wristguards",
+    "Quantity": "0"
+  },
+  "TrailblazersSlops": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "50",
+    "Id__Si": "12004",
+    "Name__Si": "Trailblazer's Slops",
+    "Quantity": "0"
+  },
+  "TrailblazersShoes": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "50",
+    "Id__Si": "12009",
+    "Name__Si": "Trailblazer's Shoes",
+    "Quantity": "0"
+  },
+  "CrownTrout": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "5",
+    "Id__Si": "13737",
+    "Name__Si": "Crown Trout",
+    "Quantity": "0"
+  },
+  "CrownTroutHq": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "12",
+    "Id__Si": "13737",
+    "Name__Si": "Crown Trout HQ",
+    "Quantity": "0"
+  },
+  "RetributionStaff": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "10",
+    "Id__Si": "13738",
+    "Name__Si": "Retribution Staff",
+    "Quantity": "0"
+  },
+  "RetributionStaffHq": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "25",
+    "Id__Si": "13738",
+    "Name__Si": "Retribution Staff HQ",
+    "Quantity": "0"
+  },
+  "ThiefBetta": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "5",
+    "Id__Si": "13739",
+    "Name__Si": "Thief Betta",
+    "Quantity": "0"
+  },
+  "ThiefBettaHq": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "12",
+    "Id__Si": "13739",
+    "Name__Si": "Thief Betta HQ",
+    "Quantity": "0"
+  },
+  "GoldsmithCrab": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "5",
+    "Id__Si": "13740",
+    "Name__Si": "Goldsmith Crab",
+    "Quantity": "0"
+  },
+  "GoldsmithCrabHq": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "12",
+    "Id__Si": "13740",
+    "Name__Si": "Goldsmith Crab HQ",
+    "Quantity": "0"
+  },
+  "Pterodactyl": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "20",
+    "Id__Si": "13733",
+    "Name__Si": "Pterodactyl",
+    "Quantity": "0"
+  },
+  "PterodactylHq": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "50",
+    "Id__Si": "13733",
+    "Name__Si": "Pterodactyl HQ",
+    "Quantity": "0"
+  },
+  "Eurhinosaur": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "5",
+    "Id__Si": "13734",
+    "Name__Si": "Eurhinosaur",
+    "Quantity": "0"
+  },
+  "EurhinosaurHq": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "12",
+    "Id__Si": "13734",
+    "Name__Si": "Eurhinosaur HQ",
+    "Quantity": "0"
+  },
+  "GemMarimo": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "10",
+    "Id__Si": "13736",
+    "Name__Si": "Gem Marimo",
+    "Quantity": "0"
+  },
+  "GemMarimoHq": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "25",
+    "Id__Si": "13736",
+    "Name__Si": "Gem Marimo HQ",
+    "Quantity": "0"
+  },
+  "Sphalerite": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "10",
+    "Id__Si": "13750",
+    "Name__Si": "Sphalerite",
+    "Quantity": "0"
+  },
+  "SphaleriteHq": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "25",
+    "Id__Si": "13750",
+    "Name__Si": "Sphalerite HQ",
+    "Quantity": "0"
+  },
+  "WindSilk": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "75",
+    "Id__Si": "13744",
+    "Name__Si": "Wind Silk",
+    "Quantity": "0"
+  },
+  "CloudCottonBoll": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "10",
+    "Id__Si": "13753",
+    "Name__Si": "Cloud Cotton Boll",
+    "Quantity": "0"
+  },
+  "CloudCottonBollHq": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "25",
+    "Id__Si": "13753",
+    "Name__Si": "Cloud Cotton Boll HQ",
+    "Quantity": "0"
+  },
+  "DinosaurLeather": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "75",
+    "Id__Si": "13745",
+    "Name__Si": "Dinosaur Leather",
+    "Quantity": "0"
+  },
+  "RoyalMistletoe": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "10",
+    "Id__Si": "13752",
+    "Name__Si": "Royal Mistletoe",
+    "Quantity": "0"
+  },
+  "RoyalMistletoeHq": {
+    "Categ__Si": "Red Scrips (58)",
+    "Cost__Si": "25",
+    "Id__Si": "13752",
+    "Name__Si": "Royal Mistletoe HQ",
+    "Quantity": "0"
+  },
+  "FolkloreGatherToken": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "50",
+    "Id__Si": "20260",
+    "Name__Si": "Folklore Gather Token",
+    "Quantity": "0"
+  },
+  "DomanIronPickaxe": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "400",
+    "Id__Si": "19535",
+    "Name__Si": "Doman Iron Pickaxe",
+    "Quantity": "0"
+  },
+  "DomanIronSledgehammer": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "400",
+    "Id__Si": "19546",
+    "Name__Si": "Doman Iron Sledgehammer",
+    "Quantity": "0"
+  },
+  "DomanIronHatchet": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "400",
+    "Id__Si": "19536",
+    "Name__Si": "Doman Iron Hatchet",
+    "Quantity": "0"
+  },
+  "DomanIronScythe": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "400",
+    "Id__Si": "19547",
+    "Name__Si": "Doman Iron Scythe",
+    "Quantity": "0"
+  },
+  "PineFishingRod": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "400",
+    "Id__Si": "19537",
+    "Name__Si": "Pine Fishing Rod",
+    "Quantity": "0"
+  },
+  "TigerskinCapofGathering": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "300",
+    "Id__Si": "19637",
+    "Name__Si": "Tigerskin Cap of Gathering",
+    "Quantity": "0"
+  },
+  "KudzuCoatofGathering": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "400",
+    "Id__Si": "19638",
+    "Name__Si": "Kudzu Coat of Gathering",
+    "Quantity": "0"
+  },
+  "TigerskinFingerlessGlovesofGathering": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "200",
+    "Id__Si": "19639",
+    "Name__Si": "Tigerskin Fingerless Gloves of Gathering",
+    "Quantity": "0"
+  },
+  "KudzuCulottesofGathering": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "150",
+    "Id__Si": "19640",
+    "Name__Si": "Kudzu Culottes of Gathering",
+    "Quantity": "0"
+  },
+  "TigerskinBootsofGathering": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "150",
+    "Id__Si": "19641",
+    "Name__Si": "Tigerskin Boots of Gathering",
+    "Quantity": "0"
+  },
+  "Silkworm": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "5",
+    "Id__Si": "20616",
+    "Name__Si": "Silkworm",
+    "Quantity": "0"
+  },
+  "BreamLure": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "50",
+    "Id__Si": "20618",
+    "Name__Si": "Bream Lure",
+    "Quantity": "0"
+  },
+  "SuspendingMinnow": {
+    "Categ__Si": "Red Scrips (61)",
+    "Cost__Si": "50",
+    "Id__Si": "20619",
+    "Name__Si": "Suspending Minnow",
+    "Quantity": "0"
+  },
+  "WoolTop": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "500",
+    "Id__Si": "16906",
+    "Name__Si": "Wool Top",
+    "Quantity": "0"
+  },
+  "Flannel": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "500",
+    "Id__Si": "17574",
+    "Name__Si": "Flannel",
+    "Quantity": "0"
+  },
+  "NewWorldMacrame": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "500",
+    "Id__Si": "16907",
+    "Name__Si": "New World Macrame",
+    "Quantity": "0"
+  },
+  "Pellitory": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "500",
+    "Id__Si": "15945",
+    "Name__Si": "Pellitory",
+    "Quantity": "0"
+  },
+  "DusklightAethersand": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "60",
+    "Id__Si": "20013",
+    "Name__Si": "Dusklight Aethersand",
+    "Quantity": "0"
+  },
+  "DusklightAethersandHq": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "100",
+    "Id__Si": "20013",
+    "Name__Si": "Dusklight Aethersand HQ",
+    "Quantity": "0"
+  },
+  "DawnlightAethersand": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "60",
+    "Id__Si": "20014",
+    "Name__Si": "Dawnlight Aethersand",
+    "Quantity": "0"
+  },
+  "DawnlightAethersandHq": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "100",
+    "Id__Si": "20014",
+    "Name__Si": "Dawnlight Aethersand HQ",
+    "Quantity": "0"
+  },
+  "EverbrightAethersand": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "85",
+    "Id__Si": "20015",
+    "Name__Si": "Everbright Aethersand",
+    "Quantity": "0"
+  },
+  "EverbrightAethersandHq": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "125",
+    "Id__Si": "20015",
+    "Name__Si": "Everbright Aethersand HQ",
+    "Quantity": "0"
+  },
+  "EverbornAethersand": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "85",
+    "Id__Si": "20016",
+    "Name__Si": "Everborn Aethersand",
+    "Quantity": "0"
+  },
+  "EverbornAethersandHq": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "125",
+    "Id__Si": "20016",
+    "Name__Si": "Everborn Aethersand HQ",
+    "Quantity": "0"
+  },
+  "EverdeepAethersand": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "85",
+    "Id__Si": "20017",
+    "Name__Si": "Everdeep Aethersand",
+    "Quantity": "0"
+  },
+  "EverdeepAethersandHq": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "125",
+    "Id__Si": "20017",
+    "Name__Si": "Everdeep Aethersand HQ",
+    "Quantity": "0"
+  },
+  "GuerdonVI": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "1500",
+    "Id__Si": "18022",
+    "Name__Si": "Guerdon Materia VI",
+    "Quantity": "0"
+  },
+  "GuileVI": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "1500",
+    "Id__Si": "18023",
+    "Name__Si": "Guile Materia VI",
+    "Quantity": "0"
+  },
+  "GraspVI": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "1500",
+    "Id__Si": "18024",
+    "Name__Si": "Grasp Materia VI",
+    "Quantity": "0"
+  },
+  "ChocoboRaincoat": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "1650",
+    "Id__Si": "21925",
+    "Name__Si": "Chocobo Raincoat",
+    "Quantity": "0"
+  },
+  "StoneflyLarva": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "5",
+    "Id__Si": "20675",
+    "Name__Si": "Stonefly Larva",
+    "Quantity": "0"
+  },
+  "BlueBobbit": {
+    "Categ__Si": "Yellow Scrips",
+    "Cost__Si": "5",
+    "Id__Si": "20676",
+    "Name__Si": "Blue Bobbit",
+    "Quantity": "0"
+  },
+  "FilterStringShopRed": "",
+  "FilterStringShopYellow": "",
+  "Rotation5060": "Unspoiled",
+  "Rotation6366": "Unspoiled",
+  "Rotation6870": "Unspoiled",
+  "Rotation1Star": "Unspoiled",
+  "Rotation2Star": "Unspoiled",
+  "GatherIncrease5060": {
+    "Key": "Yield",
+    "Value": "Yield"
+  },
+  "GatherIncrease6366": {
+    "Key": "Yield",
+    "Value": "Yield"
+  },
+  "GatherIncrease6870": {
+    "Key": "Yield",
+    "Value": "Yield"
+  },
+  "GatherIncrease1Star": {
+    "Key": "Yield",
+    "Value": "Yield"
+  },
+  "GatherIncrease2Star": {
+    "Key": "Yield",
+    "Value": "Yield"
+  },
+  "DisableRotationOverride5060": {
+    "Key": "False",
+    "Value": "False"
+  },
+  "DisableRotationOverride6366": {
+    "Key": "False",
+    "Value": "False"
+  },
+  "DisableRotationOverride6870": {
+    "Key": "False",
+    "Value": "False"
+  },
+  "DisableRotationOverride1Star": {
+    "Key": "False",
+    "Value": "False"
+  },
+  "DisableRotationOverride2Star": {
+    "Key": "False",
+    "Value": "False"
+  },
+  "Collectability6870": "470",
+  "Collectability1Star": "470",
+  "EnableAmountUnown": true,
+  "SpiritBondUnown": false,
+  "CordialType5060": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType5060Collectable": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType6366": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType6366Collectable": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType6870": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType6870Collectable": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType1Star": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType1StarCollectable": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType2Star": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialTime5060": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialTime5060Collectable": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialTime6366": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialTime6366Collectable": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialTime6870": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialTime6870Collectable": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialTime1Star": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialTime1StarCollectable": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialTime2Star": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "Unspoiled12Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount12Am": "999",
+  "Collectable12Am": false,
+  "HighQuality12Am": false,
+  "Unspoiled1Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount1Am": "999",
+  "Collectable1Am": false,
+  "HighQuality1Am": false,
+  "Unspoiled2Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount2Am": "999",
+  "Collectable2Am": false,
+  "HighQuality2Am": false,
+  "Unspoiled3Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount3Am": "999",
+  "Collectable3Am": false,
+  "HighQuality3Am": false,
+  "Unspoiled4Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount4Am": "999",
+  "Collectable4Am": false,
+  "HighQuality4Am": false,
+  "Unspoiled5Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount5Am": "999",
+  "Collectable5Am": false,
+  "HighQuality5Am": false,
+  "Unspoiled6Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount6Am": "999",
+  "Collectable6Am": false,
+  "HighQuality6Am": false,
+  "Unspoiled7Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount7Am": "999",
+  "Collectable7Am": false,
+  "HighQuality7Am": false,
+  "Unspoiled8Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount8Am": "999",
+  "Collectable8Am": false,
+  "HighQuality8Am": false,
+  "Unspoiled9Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount9Am": "999",
+  "Collectable9Am": false,
+  "HighQuality9Am": false,
+  "Unspoiled10Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount10Am": "999",
+  "Collectable10Am": false,
+  "HighQuality10Am": false,
+  "Unspoiled11Am": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount11Am": "999",
+  "Collectable11Am": false,
+  "HighQuality11Am": false,
+  "Unspoiled12Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount12Pm": "999",
+  "Collectable12Pm": false,
+  "HighQuality12Pm": false,
+  "Unspoiled1Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount1Pm": "999",
+  "Collectable1Pm": false,
+  "HighQuality1Pm": false,
+  "Unspoiled2Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount2Pm": "999",
+  "Collectable2Pm": false,
+  "HighQuality2Pm": false,
+  "Unspoiled3Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount3Pm": "999",
+  "Collectable3Pm": false,
+  "HighQuality3Pm": false,
+  "Unspoiled4Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount4Pm": "999",
+  "Collectable4Pm": false,
+  "HighQuality4Pm": false,
+  "Unspoiled5Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount5Pm": "999",
+  "Collectable5Pm": false,
+  "HighQuality5Pm": false,
+  "Unspoiled6Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount6Pm": "999",
+  "Collectable6Pm": false,
+  "HighQuality6Pm": false,
+  "Unspoiled7Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount7Pm": "999",
+  "Collectable7Pm": false,
+  "HighQuality7Pm": false,
+  "Unspoiled8Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount8Pm": "999",
+  "Collectable8Pm": false,
+  "HighQuality8Pm": false,
+  "Unspoiled9Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount9Pm": "999",
+  "Collectable9Pm": false,
+  "HighQuality9Pm": false,
+  "Unspoiled10Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount10Pm": "999",
+  "Collectable10Pm": false,
+  "HighQuality10Pm": false,
+  "Unspoiled11Pm": {
+    "Key": "0",
+    "Value": "None"
+  },
+  "Amount11Pm": "999",
+  "Collectable11Pm": false,
+  "HighQuality11Pm": false,
+  "WaitAtAetheryteSchedule": false,
+  "DelayTeleportBefore": {
+    "Key": "0",
+    "Value": "60 Minutes"
+  },
+  "DelayTeleportAfter": "0",
+  "AwayResting": false,
+  "Grade4CarbonizedMatter": "0",
+  "FireCluster": "0",
+  "IceCluster": "0",
+  "WindCluster": "0",
+  "EarthCluster": "0",
+  "LightningCluster": "0",
+  "WaterCluster": "0",
+  "DarkMatterCluster": "0",
+  "UnaspectedCrystal": "0",
+  "AlternativeItemCluster": {
+    "Key": "Water Cluster",
+    "Value": "Water Cluster"
+  },
+  "EnableAmountPsyduck": true,
+  "KeepFishingPsyduck": false,
+  "EnableKeeperPsyduck": true,
+  "CordialTypePsyduck": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "PatiencePsyduck": {
+    "Key": "Patience",
+    "Value": "Patience"
+  },
+  "MinimumGpPatiencePsyduck": "600",
+  "ResetPsyduck": false,
+  "ResetHourPsyduck": {
+    "Key": "0",
+    "Value": "12 AM"
+  },
+  "Snailfish": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Normal Gig*",
+    "Categ__Tf": "Crafting Material (4.1)",
+    "Id__Tf": "21180",
+    "IsEnabled": false,
+    "Name__Tf": "Snailfish",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The Kobayashi Maru",
+    "Quantity": "0"
+  },
+  "CastawayChocoboChick": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Pill Bug*",
+    "Categ__Tf": "Minion (4.0)",
+    "Id__Tf": "20524",
+    "IsEnabled": false,
+    "Name__Tf": "Castaway Chocobo Chick",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Endless Summer",
+    "Quantity": "0"
+  },
+  "DomanEel": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Midge Larva*",
+    "Categ__Tf": "Crafting Material (4.0)",
+    "Id__Tf": "20124",
+    "IsEnabled": false,
+    "Name__Tf": "Doman Eel",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Prism Canyon",
+    "Quantity": "0"
+  },
+  "Raimdellopterus": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Giant Crane Fly\nRed Balloon*",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17593",
+    "IsEnabled": false,
+    "Name__Tf": "Raimdellopterus",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Tharl Oom Khash",
+    "Quantity": "0"
+  },
+  "Charibenet": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Purse Web Spider*",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17592",
+    "IsEnabled": false,
+    "Name__Tf": "Charibenet",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Clearpool",
+    "Quantity": "0"
+  },
+  "SeaButterfly": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Giant Crane Fly",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17591",
+    "IsEnabled": false,
+    "Name__Tf": "Sea Butterfly",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Mok Oogl Island",
+    "Quantity": "0"
+  },
+  "ArmorFish": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Stonefly Nymph*",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17590",
+    "IsEnabled": false,
+    "Name__Tf": "Armor Fish",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Upper Thaliak River",
+    "Quantity": "0"
+  },
+  "Opabinia": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Fiend Worm",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17589",
+    "IsEnabled": false,
+    "Name__Tf": "Opabinia",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Flagship",
+    "Quantity": "0"
+  },
+  "Problematicus": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Magma Worm*",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17588",
+    "IsEnabled": false,
+    "Name__Tf": "Problematicus",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Halo",
+    "Quantity": "0"
+  },
+  "Bloodchaser": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Giant Crane Fly",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17587",
+    "IsEnabled": false,
+    "Name__Tf": "Bloodchaser",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Tharl Oom Khash",
+    "Quantity": "0"
+  },
+  "ThousandFin": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Brute Leech",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17586",
+    "IsEnabled": false,
+    "Name__Tf": "Thousand Fin",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Weston Waters",
+    "Quantity": "0"
+  },
+  "TheSpeaker": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Stonefly Nymph*",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17585",
+    "IsEnabled": false,
+    "Name__Tf": "The Speaker",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Upper Thaliak River",
+    "Quantity": "0"
+  },
+  "TheLordofLords": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Magma Worm*",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17584",
+    "IsEnabled": false,
+    "Name__Tf": "The Lord of Lords",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Halo",
+    "Quantity": "0"
+  },
+  "Riddle": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Magma Worm*",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17583",
+    "IsEnabled": false,
+    "Name__Tf": "Riddle",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Anyx Old",
+    "Quantity": "0"
+  },
+  "Thunderscale": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Stonefly Nymph*",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17582",
+    "IsEnabled": false,
+    "Name__Tf": "Thunderscale",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Iron Feast",
+    "Quantity": "0"
+  },
+  "CrystalPigeon": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Giant Crane Fly\nRed Balloon*",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17581",
+    "IsEnabled": false,
+    "Name__Tf": "Crystal Pigeon",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Habisphere",
+    "Quantity": "0"
+  },
+  "Ceti": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Fiend Worm",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17580",
+    "IsEnabled": false,
+    "Name__Tf": "Ceti",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "H. Downconverter",
+    "Quantity": "0"
+  },
+  "Paikiller": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Bladed Steel Jig\nPurse Web Spider*",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17579",
+    "IsEnabled": false,
+    "Name__Tf": "Paikiller",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Eddies",
+    "Quantity": "0"
+  },
+  "CaptainNemo": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Brute Leech",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17578",
+    "IsEnabled": false,
+    "Name__Tf": "Captain Nemo",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "South Banepool",
+    "Quantity": "0"
+  },
+  "Bishopfish": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Brute Leech",
+    "Categ__Tf": "Big Fish (3.5)",
+    "Id__Tf": "17577",
+    "IsEnabled": false,
+    "Name__Tf": "Bishopfish",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Clearpool",
+    "Quantity": "0"
+  },
+  "Merciless": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Caddisfly Larva*",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16756",
+    "IsEnabled": false,
+    "Name__Tf": "Merciless",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "West Banepool",
+    "Quantity": "0"
+  },
+  "BobgoblinBass": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech\nGoblin Jig\nBladed Steel Jig",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16754",
+    "IsEnabled": false,
+    "Name__Tf": "Bobgoblin Bass",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Middle Thaliak River",
+    "Quantity": "0"
+  },
+  "HundredEyedAxolotl": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Purse Web Spider*",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16753",
+    "IsEnabled": false,
+    "Name__Tf": "Hundred-eyed Axolotl",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Pappus Tree",
+    "Quantity": "0"
+  },
+  "HraesvelgrsTear": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Magma Worm*",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16751",
+    "IsEnabled": false,
+    "Name__Tf": "Hraesvelgr's Tear",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "West Mourn",
+    "Quantity": "0"
+  },
+  "Cirrostratus": {
+    "Bait__Tf": "Giant Crane Fly",
+    "Baits__Tf": "Giant Crane Fly",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16750",
+    "IsEnabled": false,
+    "Name__Tf": "Cirrostratus",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Cloudtop",
+    "Quantity": "0"
+  },
+  "MoggleMogpom": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16749",
+    "IsEnabled": false,
+    "Name__Tf": "Moggle Mogpom",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Greensward",
+    "Quantity": "0"
+  },
+  "MadamButterfly": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Purse Web Spider*",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16748",
+    "IsEnabled": false,
+    "Name__Tf": "Madam Butterfly",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Quickspill Delta",
+    "Quantity": "0"
+  },
+  "TwinTonguedCarp": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16747",
+    "IsEnabled": false,
+    "Name__Tf": "Twin-tongued Carp",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Whilom River",
+    "Quantity": "0"
+  },
+  "Flarefish": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Purse Web Spider*",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16746",
+    "IsEnabled": false,
+    "Name__Tf": "Flarefish",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Unfrozen Pond",
+    "Quantity": "0"
+  },
+  "Hailfinder": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Giant Crane Fly\nRed Balloon*",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16745",
+    "IsEnabled": false,
+    "Name__Tf": "Hailfinder",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Greytail Falls",
+    "Quantity": "0"
+  },
+  "AllaganBladeshark": {
+    "Bait__Tf": "Fiend Worm",
+    "Baits__Tf": "Fiend Worm",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16744",
+    "IsEnabled": false,
+    "Name__Tf": "Allagan Bladeshark",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Flagship",
+    "Quantity": "0"
+  },
+  "BaskingShark": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Red Balloon*",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16743",
+    "IsEnabled": false,
+    "Name__Tf": "Basking Shark",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Mok Oogl Island",
+    "Quantity": "0"
+  },
+  "Dimorphodon": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Giant Crane Fly\nRed Balloon*",
+    "Categ__Tf": "Big Fish (3.4)",
+    "Id__Tf": "16742",
+    "IsEnabled": false,
+    "Name__Tf": "Dimorphodon",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Sohm Al Summit",
+    "Quantity": "0"
+  },
+  "AphoticPirarucu": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Purse Web Spider*",
+    "Categ__Tf": "Big Fish (3.3)",
+    "Id__Tf": "15638",
+    "IsEnabled": false,
+    "Name__Tf": "Aphotic Pirarucu",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Delta Quadrant",
+    "Quantity": "0"
+  },
+  "TheSecondOne": {
+    "Bait__Tf": "Giant Crane Fly",
+    "Baits__Tf": "Giant Crane Fly",
+    "Categ__Tf": "Big Fish (3.3)",
+    "Id__Tf": "15636",
+    "IsEnabled": false,
+    "Name__Tf": "The Second One",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Blue Window",
+    "Quantity": "0"
+  },
+  "Inkfish": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech",
+    "Categ__Tf": "Big Fish (3.3)",
+    "Id__Tf": "15635",
+    "IsEnabled": false,
+    "Name__Tf": "Inkfish",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Voor Sian Siran",
+    "Quantity": "0"
+  },
+  "TheSoulOfTheMartyr": {
+    "Bait__Tf": "Giant Crane Fly",
+    "Baits__Tf": "Giant Crane Fly",
+    "Categ__Tf": "Big Fish (3.3)",
+    "Id__Tf": "15634",
+    "IsEnabled": false,
+    "Name__Tf": "The Soul of the Martyr",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Landlord Colony",
+    "Quantity": "0"
+  },
+  "Vidofnir": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech",
+    "Categ__Tf": "Big Fish (3.3)",
+    "Id__Tf": "15633",
+    "IsEnabled": false,
+    "Name__Tf": "Vidofnir",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Eil Tohm",
+    "Quantity": "0"
+  },
+  "Meteortoise": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Magma Worm*",
+    "Categ__Tf": "Big Fish (3.3)",
+    "Id__Tf": "15631",
+    "IsEnabled": false,
+    "Name__Tf": "Meteortoise",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Mourn",
+    "Quantity": "0"
+  },
+  "TheDreamweaver": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech",
+    "Categ__Tf": "Big Fish (3.3)",
+    "Id__Tf": "15630",
+    "IsEnabled": false,
+    "Name__Tf": "The Dreamweaver",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Smoldering Wastes",
+    "Quantity": "0"
+  },
+  "Scaleripper": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech",
+    "Categ__Tf": "Big Fish (3.3)",
+    "Id__Tf": "15629",
+    "IsEnabled": false,
+    "Name__Tf": "Scaleripper",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Hundred Throes",
+    "Quantity": "0"
+  },
+  "ArmoredCatfish": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech",
+    "Categ__Tf": "Rare Fish (3.2)",
+    "Id__Tf": "14220",
+    "IsEnabled": false,
+    "Name__Tf": "Armored Catfish",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Upper Thaliak River",
+    "Quantity": "0"
+  },
+  "OliphantsTrunk": {
+    "Bait__Tf": "Fiend Worm",
+    "Baits__Tf": "Fiend Worm",
+    "Categ__Tf": "Rare Fish (3.2)",
+    "Id__Tf": "14218",
+    "IsEnabled": false,
+    "Name__Tf": "Oliphant's Trunk",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "H. Downconverter",
+    "Quantity": "0"
+  },
+  "LavaSnail": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Magma Worm*",
+    "Categ__Tf": "Rare Fish (3.2)",
+    "Id__Tf": "14215",
+    "IsEnabled": false,
+    "Name__Tf": "Lava Snail",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Halo",
+    "Quantity": "0"
+  },
+  "FleeceStingray": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Giant Crane Fly\nRed Balloon*",
+    "Categ__Tf": "Rare Fish (3.2)",
+    "Id__Tf": "14213",
+    "IsEnabled": false,
+    "Name__Tf": "Fleece Stingray",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Cloudtop",
+    "Quantity": "0"
+  },
+  "AmberSalamander": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Brute Leech\nStonefly Nymph*",
+    "Categ__Tf": "Rare Fish (3.2)",
+    "Id__Tf": "14211",
+    "IsEnabled": false,
+    "Name__Tf": "Amber Salamander",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Iron Feast",
+    "Quantity": "0"
+  },
+  "GoblinBass": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech\nGoblin Jig\nBladed Steel Jig",
+    "Categ__Tf": "Rare Fish (3.1)",
+    "Id__Tf": "13732",
+    "IsEnabled": false,
+    "Name__Tf": "Goblin Bass",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Middle Thaliak River",
+    "Quantity": "0"
+  },
+  "Sunsail": {
+    "Bait__Tf": "Giant Crane Fly",
+    "Baits__Tf": "Giant Crane Fly",
+    "Categ__Tf": "Rare Fish (3.1)",
+    "Id__Tf": "13731",
+    "IsEnabled": false,
+    "Name__Tf": "Sunsail",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Landlord Colony",
+    "Quantity": "0"
+  },
+  "HeavensCoral": {
+    "Bait__Tf": "Giant Crane Fly",
+    "Baits__Tf": "Giant Crane Fly",
+    "Categ__Tf": "Rare Fish (3.1)",
+    "Id__Tf": "13730",
+    "IsEnabled": false,
+    "Name__Tf": "Heavens Coral",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Iron Feast",
+    "Quantity": "0"
+  },
+  "CoerthanClione": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech\nPurse Web Spider*",
+    "Categ__Tf": "Rare Fish (3.1)",
+    "Id__Tf": "13728",
+    "IsEnabled": false,
+    "Name__Tf": "Coerthan Clione",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "Unfrozen Pond",
+    "Quantity": "0"
+  },
+  "FunctionalProtohropken": {
+    "Bait__Tf": "Fiend Worm",
+    "Baits__Tf": "Fiend Worm",
+    "Categ__Tf": "Rare Fish (3.1)",
+    "Id__Tf": "13727",
+    "IsEnabled": false,
+    "Name__Tf": "F. Proto-hropken",
+    "Folklore__Tf": "Yes",
+    "Zone__Tf": "The Flagship",
+    "Quantity": "0"
+  },
+  "Catkiller": {
+    "Bait__Tf": "Brute Leech",
+    "Baits__Tf": "Brute Leech\nBladed Steel Jig",
+    "Categ__Tf": "Rare Fish (3.0)",
+    "Id__Tf": "12829",
+    "IsEnabled": false,
+    "Name__Tf": "Catkiller",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The Eddies",
+    "Quantity": "0"
+  },
+  "MagmaLouse": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Magma Worm*",
+    "Categ__Tf": "Rare Fish (3.0)",
+    "Id__Tf": "12786",
+    "IsEnabled": false,
+    "Name__Tf": "Magma Louse",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Anyx Old",
+    "Quantity": "0"
+  },
+  "PipiraPira": {
+    "Bait__Tf": "Goblin Jig",
+    "Baits__Tf": "Goblin Jig",
+    "Categ__Tf": "Crafting Material (3.0)",
+    "Id__Tf": "12741",
+    "IsEnabled": false,
+    "Name__Tf": "Pipira Pira",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The Hundred Throes",
+    "Quantity": "0"
+  },
+  "ThunderboltEel": {
+    "Bait__Tf": "Bladed Steel Jig",
+    "Baits__Tf": "Bladed Steel Jig\nBrute Leech",
+    "Categ__Tf": "Red Scrips (3.0)",
+    "Id__Tf": "12828",
+    "IsEnabled": false,
+    "Name__Tf": "Thunderbolt Eel",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The Iron Feast",
+    "Quantity": "0"
+  },
+  "Tupuxuara": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Giant Crane Fly\nRed Balloon*",
+    "Categ__Tf": "Ephemeral Fish (3.0)",
+    "Id__Tf": "12833",
+    "IsEnabled": false,
+    "Name__Tf": "Tupuxuara",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The Habisphere",
+    "Quantity": "0"
+  },
+  "ThaliakCaiman": {
+    "Bait__Tf": "Bladed Steel Jig",
+    "Baits__Tf": "Bladed Steel Jig",
+    "Categ__Tf": "Ephemeral Fish (3.0)",
+    "Id__Tf": "12831",
+    "IsEnabled": false,
+    "Name__Tf": "Thaliak Caiman",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Middle Thaliak River",
+    "Quantity": "0"
+  },
+  "Pteranodon": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Giant Crane Fly\nRed Balloon*",
+    "Categ__Tf": "Ephemeral Fish (3.0)",
+    "Id__Tf": "12821",
+    "IsEnabled": false,
+    "Name__Tf": "Pteranodon",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Sohm Al Summit",
+    "Quantity": "0"
+  },
+  "Caiman": {
+    "Bait__Tf": "Bladed Steel Jig",
+    "Baits__Tf": "Bladed Steel Jig",
+    "Categ__Tf": "Ephemeral Fish (3.0)",
+    "Id__Tf": "12802",
+    "IsEnabled": false,
+    "Name__Tf": "Caiman",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Voor Sian Siran",
+    "Quantity": "0"
+  },
+  "DravanianBass": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Brute Leech\nStonefly Nymph*",
+    "Categ__Tf": "Ephemeral Fish (3.0)",
+    "Id__Tf": "12761",
+    "IsEnabled": false,
+    "Name__Tf": "Dravanian Bass",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Whilom River",
+    "Quantity": "0"
+  },
+  "Namitaro": {
+    "Bait__Tf": "Topwater Frog",
+    "Baits__Tf": "Topwater Frog",
+    "Categ__Tf": "Feast of Famine (2.4)",
+    "Id__Tf": "8775",
+    "IsEnabled": true,
+    "Name__Tf": "Namitaro",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Urth's Gift",
+    "Quantity": "1"
+  },
+  "Shonisaurus": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Hoverworm*",
+    "Categ__Tf": "Feast of Famine (2.4)",
+    "Id__Tf": "8772",
+    "IsEnabled": true,
+    "Name__Tf": "Shonisaurus",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Witchdrop",
+    "Quantity": "1"
+  },
+  "Helicoprion": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Sand Leech*",
+    "Categ__Tf": "Feast of Famine (2.4)",
+    "Id__Tf": "8768",
+    "IsEnabled": true,
+    "Name__Tf": "Helicoprion",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Sagolii Desert",
+    "Quantity": "1"
+  },
+  "KunotheKiller": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Honey Worm*",
+    "Categ__Tf": "Feast of Famine (2.4)",
+    "Id__Tf": "8763",
+    "IsEnabled": true,
+    "Name__Tf": "Kuno the Killer",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The North Shards",
+    "Quantity": "1"
+  },
+  "Endoceras": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Steel Jig\nSpoon Worm*",
+    "Categ__Tf": "Feast of Famine (2.4)",
+    "Id__Tf": "8756",
+    "IsEnabled": true,
+    "Name__Tf": "Endoceras",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Isles of Umbra S.",
+    "Quantity": "1"
+  },
+  "NeptoDragon": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Northern Krill*",
+    "Categ__Tf": "Feast of Famine (2.4)",
+    "Id__Tf": "8754",
+    "IsEnabled": true,
+    "Name__Tf": "Nepto Dragon",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Rhotano Sea (S)",
+    "Quantity": "1"
+  },
+  "NavigatorsBrand": {
+    "Bait__Tf": "Yumizuno",
+    "Baits__Tf": "Yumizuno",
+    "Categ__Tf": "The Brewer's Beacon (2.2)",
+    "Id__Tf": "7693",
+    "IsEnabled": false,
+    "Name__Tf": "Navigator's Brand",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The Brewer's Beacon",
+    "Quantity": "0"
+  },
+  "TitanicSawfish": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Shrimp Cage Feeder*",
+    "Categ__Tf": "The Brewer's Beacon (2.0)",
+    "Id__Tf": "4924",
+    "IsEnabled": false,
+    "Name__Tf": "Titanic Sawfish",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Cape Westwind",
+    "Quantity": "0"
+  },
+  "BloodRedBonytongue": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Honey Worm*",
+    "Categ__Tf": "Aquarium (2.4)",
+    "Id__Tf": "8776",
+    "IsEnabled": false,
+    "Name__Tf": "Blood Red Bonytongue",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Singing Shards",
+    "Quantity": "0"
+  },
+  "GiantTakitaro": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Glowworm*",
+    "Categ__Tf": "Aquarium (2.4)",
+    "Id__Tf": "8774",
+    "IsEnabled": false,
+    "Name__Tf": "Giant Takitaro",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Urth's Gift",
+    "Quantity": "0"
+  },
+  "Cupfish": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Syrphid Basket*",
+    "Categ__Tf": "Aquarium (2.3)",
+    "Id__Tf": "7902",
+    "IsEnabled": false,
+    "Name__Tf": "Cupfish",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Blind Iron Mines",
+    "Quantity": "0"
+  },
+  "HelmsmansHand": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Pill Bug*",
+    "Categ__Tf": "Aquarium (2.3)",
+    "Id__Tf": "7941",
+    "IsEnabled": false,
+    "Name__Tf": "Helmsman's Hand",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Isles of Umbra N.",
+    "Quantity": "0"
+  },
+  "Mirrorscale": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Midge Basket*",
+    "Categ__Tf": "Aquarium (2.3)",
+    "Id__Tf": "7940",
+    "IsEnabled": false,
+    "Name__Tf": "Mirrorscale",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The Juggernaut",
+    "Quantity": "0"
+  },
+  "GigantClam": {
+    "Bait__Tf": "Heavy Steel Jig",
+    "Baits__Tf": "Heavy Steel Jig",
+    "Categ__Tf": "Big Fish (2.5)",
+    "Id__Tf": "10123",
+    "IsEnabled": false,
+    "Name__Tf": "Gigant Clam",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "South Bloodshore",
+    "Quantity": "0"
+  },
+  "NinjaBetta": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Midge Basket*",
+    "Categ__Tf": "Big Fish (2.4)",
+    "Id__Tf": "8761",
+    "IsEnabled": false,
+    "Name__Tf": "Ninja Betta",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The Tangle",
+    "Quantity": "0"
+  },
+  "FrilledShark": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Heavy Steel Jig\nSteel Jig\nShrimp Cage Feeder*",
+    "Categ__Tf": "Big Fish (2.3)",
+    "Id__Tf": "7950",
+    "IsEnabled": false,
+    "Name__Tf": "Frilled Shark",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The Ship Graveyard",
+    "Quantity": "0"
+  },
+  "MagicCarpet": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Sand Leech*",
+    "Categ__Tf": "Big Fish (2.3)",
+    "Id__Tf": "7931",
+    "IsEnabled": false,
+    "Name__Tf": "Magic Carpet",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Sagolii Desert",
+    "Quantity": "0"
+  },
+  "OlgoiKhorkhoi": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Sand Leech*",
+    "Categ__Tf": "Big Fish (2.3)",
+    "Id__Tf": "7930",
+    "IsEnabled": false,
+    "Name__Tf": "Olgoi-Khorkhoi",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "Sagolii Dunes",
+    "Quantity": "0"
+  },
+  "TheGreatestBreamInTheWorld": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Shrimp Cage Feeder*",
+    "Categ__Tf": "Big Fish (2.3)",
+    "Id__Tf": "7909",
+    "IsEnabled": false,
+    "Name__Tf": "The Greatest Bream",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "South Banepool",
+    "Quantity": "0"
+  },
+  "RockLobster": {
+    "Bait__Tf": "None",
+    "Baits__Tf": "Northern Krill*",
+    "Categ__Tf": "Crafting Material (2.0)",
+    "Id__Tf": "4911",
+    "IsEnabled": false,
+    "Name__Tf": "Rock Lobster",
+    "Folklore__Tf": "No",
+    "Zone__Tf": "The Silver Bazaar",
+    "Quantity": "0"
+  },
+  "FilterStringPsyduck": "",
+  "DisableRotationOverrideSnorlax": true,
+  "OrderModeSnorlax": false,
+  "GatherIncreaseSnorlax": {
+    "Key": "Yield",
+    "Value": "Yield"
+  },
+  "CordialTypeSnorlax": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "CordialTimeSnorlax": {
+    "Key": "AfterGather",
+    "Value": "After Gather"
+  },
+  "SpiritBondSnorlax": false,
+  "FireShardMin": {
+    "HighQuality": false,
+    "Id__Ri": "2",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Fire Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Wellwick Wood"
+  },
+  "FireCrystalMin": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Wellwick Wood"
+  },
+  "IceShardMin": {
+    "HighQuality": false,
+    "Id__Ri": "3",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Ice Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Quarterstone"
+  },
+  "IceCrystalMin": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Quarterstone"
+  },
+  "WindShardMin": {
+    "HighQuality": false,
+    "Id__Ri": "4",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Wind Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Nine Ivies"
+  },
+  "WindCrystalMin": {
+    "HighQuality": false,
+    "Id__Ri": "10",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Wind Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Nine Ivies"
+  },
+  "EarthShardMin": {
+    "HighQuality": false,
+    "Id__Ri": "5",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Earth Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Cedarwood"
+  },
+  "EarthCrystalMin": {
+    "HighQuality": false,
+    "Id__Ri": "11",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Earth Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Cedarwood"
+  },
+  "LightningShardMin": {
+    "HighQuality": false,
+    "Id__Ri": "6",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Lightning Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Broken Water"
+  },
+  "LightningCrystalMin": {
+    "HighQuality": false,
+    "Id__Ri": "12",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Lightning Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Broken Water"
+  },
+  "WaterShardMin": {
+    "HighQuality": false,
+    "Id__Ri": "7",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Water Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Nophica's Wells"
+  },
+  "WaterCrystalMin": {
+    "HighQuality": false,
+    "Id__Ri": "13",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Nophica's Wells"
+  },
+  "EffervescentWater": {
+    "HighQuality": false,
+    "Id__Ri": "5491",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "24",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Effervescent Water",
+    "Quantity": "0",
+    "Zone__Ri": "Upper Paths"
+  },
+  "SilverOre": {
+    "HighQuality": false,
+    "Id__Ri": "5113",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "25",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Silver Ore",
+    "Quantity": "0",
+    "Zone__Ri": "Upper Paths"
+  },
+  "MythrilOre": {
+    "HighQuality": false,
+    "Id__Ri": "5114",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "34",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Mythril Ore",
+    "Quantity": "0",
+    "Zone__Ri": "Sagolii Desert"
+  },
+  "ElectrumOre": {
+    "HighQuality": false,
+    "Id__Ri": "5115",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "43",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Electrum Ore",
+    "Quantity": "0",
+    "Zone__Ri": "Bronze Lake"
+  },
+  "RawAmber": {
+    "HighQuality": false,
+    "Id__Ri": "5143",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "44",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Raw Amber",
+    "Quantity": "0",
+    "Zone__Ri": "Drybone"
+  },
+  "BasiliskEgg": {
+    "HighQuality": false,
+    "Id__Ri": "5263",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "46",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Basilisk Egg",
+    "Quantity": "0",
+    "Zone__Ri": "Bluefog"
+  },
+  "CobaltOre": {
+    "HighQuality": false,
+    "Id__Ri": "5116",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "47",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Cobalt Ore",
+    "Quantity": "0",
+    "Zone__Ri": "Bluefog"
+  },
+  "DragonObsidian": {
+    "HighQuality": false,
+    "Id__Ri": "5126",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "50",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Dragon Obsidian",
+    "Quantity": "0",
+    "Zone__Ri": "Riversmeet"
+  },
+  "IceCrystalRiversmeetMin": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "50",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Riversmeet"
+  },
+  "MythriteSand": {
+    "HighQuality": false,
+    "Id__Ri": "12531",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Mythrite Sand",
+    "Quantity": "0",
+    "Zone__Ri": "Twinpools"
+  },
+  "IceCrystalTwinpoolsMin51": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Twinpools"
+  },
+  "MythriteOreOrRawLarimar": {
+    "HighQuality": false,
+    "Id__Ri": "12534",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "53",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Mythrite Ore/Raw Larimar",
+    "Quantity": "0",
+    "Zone__Ri": "Gorgane Holding"
+  },
+  "MythriteOreOrRawMormorion": {
+    "HighQuality": false,
+    "Id__Ri": "12534",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "53",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Mythrite Ore/Raw Mormorion",
+    "Quantity": "0",
+    "Zone__Ri": "Gorgane Holding"
+  },
+  "MythriteOreOrIceCrystal": {
+    "HighQuality": false,
+    "Id__Ri": "12534",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "53",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Mythrite Ore/Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Gorgane Holding"
+  },
+  "RawLarimar": {
+    "HighQuality": false,
+    "Id__Ri": "12551",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "53",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Raw Larimar",
+    "Quantity": "0",
+    "Zone__Ri": "Gorgane Holding"
+  },
+  "RawMormorion": {
+    "HighQuality": false,
+    "Id__Ri": "12559",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "54",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Raw Mormorion",
+    "Quantity": "0",
+    "Zone__Ri": "Gorgane Holding"
+  },
+  "IceCrystalGorganeHolding": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Gorgane Holding"
+  },
+  "RawAgate": {
+    "HighQuality": false,
+    "Id__Ri": "12553",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Raw Agate",
+    "Quantity": "0",
+    "Zone__Ri": "The Smoldering Wastes"
+  },
+  "RawTigersEye": {
+    "HighQuality": false,
+    "Id__Ri": "12552",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "52",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Raw Tiger's Eye",
+    "Quantity": "0",
+    "Zone__Ri": "The Smoldering Wastes"
+  },
+  "DravanianSpringWater": {
+    "HighQuality": false,
+    "Id__Ri": "12631",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "54",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Dravanian Spring Water",
+    "Quantity": "0",
+    "Zone__Ri": "The Smoldering Wastes"
+  },
+  "FireCrystalTheSmolderingWastesMin": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "The Smoldering Wastes"
+  },
+  "TitaniumOreOrRawStarRuby": {
+    "HighQuality": false,
+    "Id__Ri": "12537",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Titanium Ore/Raw Star Ruby",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "TitaniumOreOrRawStarSapphire": {
+    "HighQuality": false,
+    "Id__Ri": "12537",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Titanium Ore/Raw Star Sapphire",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "TitaniumOreOrFireCrystal": {
+    "HighQuality": false,
+    "Id__Ri": "12537",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Titanium Ore/Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "RawStarRuby": {
+    "HighQuality": false,
+    "Id__Ri": "12554",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Raw Star Ruby",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "RawStarSapphire": {
+    "HighQuality": false,
+    "Id__Ri": "12555",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Raw Star Sapphire",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "FireCrystalChocoboForestMin": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "RawCitrine": {
+    "HighQuality": false,
+    "Id__Ri": "12557",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "59",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Raw Citrine",
+    "Quantity": "0",
+    "Zone__Ri": "Red Rim"
+  },
+  "IceCrystalRedRim": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Red Rim"
+  },
+  "AbalathianSpringWater": {
+    "HighQuality": false,
+    "Id__Ri": "12632",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "57",
+    "Map__Ri": "Sea of Clouds",
+    "Name__Ri": "Abalathian Spring Water",
+    "Quantity": "0",
+    "Zone__Ri": "Voor Sian Siran"
+  },
+  "AurumRegisSand": {
+    "HighQuality": false,
+    "Id__Ri": "12533",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "59",
+    "Map__Ri": "Sea of Clouds",
+    "Name__Ri": "Aurum Regis Sand",
+    "Quantity": "0",
+    "Zone__Ri": "Voor Sian Siran"
+  },
+  "LightningCrystalVoorSianSiranMin": {
+    "HighQuality": false,
+    "Id__Ri": "12",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Sea of Clouds",
+    "Name__Ri": "Lightning Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Voor Sian Siran"
+  },
+  "WaterCrystalVoorSianSiranMin": {
+    "HighQuality": false,
+    "Id__Ri": "13",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Sea of Clouds",
+    "Name__Ri": "Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Voor Sian Siran"
+  },
+  "BeastkinHorn": {
+    "HighQuality": false,
+    "Id__Ri": "14190",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "60",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Beastkin Horn",
+    "Quantity": "0",
+    "Zone__Ri": "Avalonia Fallen"
+  },
+  "RawCarnelian": {
+    "HighQuality": false,
+    "Id__Ri": "12560",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "58",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Raw Carnelian",
+    "Quantity": "0",
+    "Zone__Ri": "Avalonia Fallen"
+  },
+  "RawOpal": {
+    "HighQuality": false,
+    "Id__Ri": "12556",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "57",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Raw Opal",
+    "Quantity": "0",
+    "Zone__Ri": "Avalonia Fallen"
+  },
+  "FireCrystalAvaloniaFallenMin": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Avalonia Fallen"
+  },
+  "LumythriteSand": {
+    "HighQuality": false,
+    "Id__Ri": "14955",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "60",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Lumythrite Sand",
+    "Quantity": "0",
+    "Zone__Ri": "Landlord Colony"
+  },
+  "CloudMica": {
+    "HighQuality": false,
+    "Id__Ri": "12539",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "58",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Cloud Mica",
+    "Quantity": "0",
+    "Zone__Ri": "Landlord Colony"
+  },
+  "HardsilverSand": {
+    "HighQuality": false,
+    "Id__Ri": "12532",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Hardsilver Sand",
+    "Quantity": "0",
+    "Zone__Ri": "Landlord Colony"
+  },
+  "EarthCrystalLandlordColonyMin": {
+    "HighQuality": false,
+    "Id__Ri": "11",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Earth Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Landlord Colony"
+  },
+  "HardsilverOreOrRawChrysolite": {
+    "HighQuality": false,
+    "Id__Ri": "12535",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "58",
+    "Map__Ri": "Dravanian Hinterlands",
+    "Name__Ri": "Hardsilver Ore/Raw Chrysolite",
+    "Quantity": "0",
+    "Zone__Ri": "The Maker's Quarter"
+  },
+  "HardsilverOreOrWyrmObsidian": {
+    "HighQuality": false,
+    "Id__Ri": "12535",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "58",
+    "Map__Ri": "Dravanian Hinterlands",
+    "Name__Ri": "Hardsilver Ore/Wyrm Obsidian",
+    "Quantity": "0",
+    "Zone__Ri": "The Maker's Quarter"
+  },
+  "HardsilverOreOrWindCrystal": {
+    "HighQuality": false,
+    "Id__Ri": "12535",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "58",
+    "Map__Ri": "Dravanian Hinterlands",
+    "Name__Ri": "Hardsilver Ore/Wind Crystal",
+    "Quantity": "1000",
+    "Zone__Ri": "The Maker's Quarter"
+  },
+  "RawChrysolite": {
+    "HighQuality": false,
+    "Id__Ri": "12558",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "60",
+    "Map__Ri": "Dravanian Hinterlands",
+    "Name__Ri": "Raw Chrysolite",
+    "Quantity": "0",
+    "Zone__Ri": "The Maker's Quarter"
+  },
+  "WyrmObsidian": {
+    "HighQuality": false,
+    "Id__Ri": "5127",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "60",
+    "Map__Ri": "Dravanian Hinterlands",
+    "Name__Ri": "Wyrm Obsidian",
+    "Quantity": "0",
+    "Zone__Ri": "The Maker's Quarter"
+  },
+  "WindCrystalTheMakersQuarter": {
+    "HighQuality": false,
+    "Id__Ri": "10",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Dravanian Hinterlands",
+    "Name__Ri": "Wind Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "The Maker's Quarter"
+  },
+  "GyrAbanianAlumen": {
+    "HighQuality": false,
+    "Id__Ri": "19910",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "60",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Gyr Abanian Alumen",
+    "Quantity": "0",
+    "Zone__Ri": "East End"
+  },
+  "WindCrystalEastEnd": {
+    "HighQuality": false,
+    "Id__Ri": "10",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "60",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Wind Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "East End"
+  },
+  "BeggarsMythrilOre": {
+    "HighQuality": false,
+    "Id__Ri": "17941",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "63",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Beggar's Mythril Ore",
+    "Quantity": "0",
+    "Zone__Ri": "The Striped Hills"
+  },
+  "GyrAbanianMineralWater": {
+    "HighQuality": false,
+    "Id__Ri": "19871",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Gyr Abanian Mineral Water",
+    "Quantity": "0",
+    "Zone__Ri": "The Striped Hills"
+  },
+  "RawKyanite": {
+    "HighQuality": false,
+    "Id__Ri": "19969",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "62",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Raw Kyanite",
+    "Quantity": "0",
+    "Zone__Ri": "The Striped Hills"
+  },
+  "WindCrystalTheStripedHills": {
+    "HighQuality": false,
+    "Id__Ri": "10",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Wind Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "The Striped Hills"
+  },
+  "FeatherIronOre": {
+    "HighQuality": false,
+    "Id__Ri": "17942",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "65",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Feather Iron Ore",
+    "Quantity": "0",
+    "Zone__Ri": "Sakazuki"
+  },
+  "KoppranickelOre": {
+    "HighQuality": false,
+    "Id__Ri": "19951",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "63",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Koppranickel Ore",
+    "Quantity": "0",
+    "Zone__Ri": "Sakazuki"
+  },
+  "WaterCrystalSakazuki": {
+    "HighQuality": false,
+    "Id__Ri": "13",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Sakazuki"
+  },
+  "CrescentSpringWater": {
+    "HighQuality": false,
+    "Id__Ri": "19872",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "64",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Crescent Spring Water",
+    "Quantity": "0",
+    "Zone__Ri": "The Gensui Chain"
+  },
+  "DomanIronOre": {
+    "HighQuality": false,
+    "Id__Ri": "19953",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "65",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Doman Iron Ore",
+    "Quantity": "0",
+    "Zone__Ri": "The Gensui Chain"
+  },
+  "FireCrystalTheGensuiChain": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "61",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "The Gensui Chain"
+  },
+  "Stiperstone": {
+    "HighQuality": false,
+    "Id__Ri": "5232",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Stiperstone",
+    "Quantity": "0",
+    "Zone__Ri": "Rustrock"
+  },
+  "KoppranickelSand": {
+    "HighQuality": false,
+    "Id__Ri": "19950",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Koppranickel Sand",
+    "Quantity": "0",
+    "Zone__Ri": "Rustrock"
+  },
+  "Slate": {
+    "HighQuality": false,
+    "Id__Ri": "20007",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "62",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Slate",
+    "Quantity": "0",
+    "Zone__Ri": "Rustrock"
+  },
+  "EarthCrystalRustrock": {
+    "HighQuality": false,
+    "Id__Ri": "11",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Earth Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Rustrock"
+  },
+  "Diatomite": {
+    "HighQuality": false,
+    "Id__Ri": "20006",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "63",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Diatomite",
+    "Quantity": "0",
+    "Zone__Ri": "Rasen Kaikyo"
+  },
+  "WaterCrystalRasenKaikyoMin": {
+    "HighQuality": false,
+    "Id__Ri": "13",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Rasen Kaikyo"
+  },
+  "Serpentine": {
+    "HighQuality": false,
+    "Id__Ri": "17943",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "68",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Serpentine",
+    "Quantity": "0",
+    "Zone__Ri": "Unseen Spirits Laughing"
+  },
+  "DuriumOre": {
+    "HighQuality": false,
+    "Id__Ri": "19954",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "68",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Durium Ore",
+    "Quantity": "0",
+    "Zone__Ri": "Unseen Spirits Laughing"
+  },
+  "FireCrystalUnseenSpiritsLaughing": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "66",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Unseen Spirits Laughing"
+  },
+  "MolybdenumOre": {
+    "HighQuality": false,
+    "Id__Ri": "19957",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "70",
+    "Map__Ri": "The Lochs",
+    "Name__Ri": "Molybdenum Ore",
+    "Quantity": "0",
+    "Zone__Ri": "The High Bank"
+  },
+  "IceCrystalTheHighBank": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Lochs",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "The High Bank"
+  },
+  "DuriumSand": {
+    "HighQuality": false,
+    "Id__Ri": "19952",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Durium Sand",
+    "Quantity": "0",
+    "Zone__Ri": "Onsal Hakair"
+  },
+  "DomanIronSand": {
+    "HighQuality": false,
+    "Id__Ri": "19955",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "67",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Doman Iron Sand",
+    "Quantity": "0",
+    "Zone__Ri": "Onsal Hakair"
+  },
+  "PalladiumSand": {
+    "HighQuality": false,
+    "Id__Ri": "19956",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "69",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Palladium Sand",
+    "Quantity": "0",
+    "Zone__Ri": "Onsal Hakair"
+  },
+  "LightningCrystalOnsalHakair": {
+    "HighQuality": false,
+    "Id__Ri": "12",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Lightning Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Onsal Hakair"
+  },
+  "FireShardBtn": {
+    "HighQuality": false,
+    "Id__Ri": "2",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Fire Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Three-malm Bend"
+  },
+  "FireCrystalBtn": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Three-malm Bend"
+  },
+  "IceShardBtn": {
+    "HighQuality": false,
+    "Id__Ri": "3",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Ice Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Upper Paths"
+  },
+  "IceCrystalBtn": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Upper Paths"
+  },
+  "WindShardBtn": {
+    "HighQuality": false,
+    "Id__Ri": "4",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Wind Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Bentbranch"
+  },
+  "WindCrystalBtn": {
+    "HighQuality": false,
+    "Id__Ri": "10",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Wind Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Bentbranch"
+  },
+  "EarthShardBtn": {
+    "HighQuality": false,
+    "Id__Ri": "5",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Earth Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Peacegarden"
+  },
+  "EarthCrystalBtn": {
+    "HighQuality": false,
+    "Id__Ri": "11",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Earth Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Peacegarden"
+  },
+  "LightningShardBtn": {
+    "HighQuality": false,
+    "Id__Ri": "6",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Lightning Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Spineless Basin"
+  },
+  "LightningCrystalBtn": {
+    "HighQuality": false,
+    "Id__Ri": "12",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Lightning Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Spineless Basin"
+  },
+  "WaterShardBtn": {
+    "HighQuality": false,
+    "Id__Ri": "7",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Water Shard",
+    "Quantity": "0",
+    "Zone__Ri": "Bloodshore"
+  },
+  "WaterCrystalBtn": {
+    "HighQuality": false,
+    "Id__Ri": "13",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "26",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Bloodshore"
+  },
+  "HighlandParsley": {
+    "HighQuality": false,
+    "Id__Ri": "4784",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "15",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Highland Parsley",
+    "Quantity": "0",
+    "Zone__Ri": "Moraby Bay"
+  },
+  "StickyRice": {
+    "HighQuality": false,
+    "Id__Ri": "4819",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "25",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Sticky Rice",
+    "Quantity": "0",
+    "Zone__Ri": "Oakwood"
+  },
+  "Flax": {
+    "HighQuality": false,
+    "Id__Ri": "5346",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "31",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Flax",
+    "Quantity": "0",
+    "Zone__Ri": "Lower Paths"
+  },
+  "WhiteTruffle": {
+    "HighQuality": false,
+    "Id__Ri": "4798",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "33",
+    "Map__Ri": "ARR",
+    "Name__Ri": "White Truffle",
+    "Quantity": "0",
+    "Zone__Ri": "Lower Paths"
+  },
+  "Aloe": {
+    "HighQuality": false,
+    "Id__Ri": "4790",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "32",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Aloe",
+    "Quantity": "0",
+    "Zone__Ri": "Broken Water"
+  },
+  "DragonPepper": {
+    "HighQuality": false,
+    "Id__Ri": "4838",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "35",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Dragon Pepper",
+    "Quantity": "0",
+    "Zone__Ri": "Bloodshore"
+  },
+  "BloodCurrants": {
+    "HighQuality": false,
+    "Id__Ri": "4814",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "36",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Blood Currants",
+    "Quantity": "0",
+    "Zone__Ri": "Lower Paths"
+  },
+  "RamhornZucchini": {
+    "HighQuality": false,
+    "Id__Ri": "4792",
+    "Job__Ri": "Miner",
+    "Lvl__Ri": "39",
+    "Map__Ri": "ARR",
+    "Name__Ri": "Ramhorn Zucchini",
+    "Quantity": "0",
+    "Zone__Ri": "Raincatcher Gully"
+  },
+  "CedarLog": {
+    "HighQuality": false,
+    "Id__Ri": "5384",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "50",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Cedar Log",
+    "Quantity": "0",
+    "Zone__Ri": "Riversmeet"
+  },
+  "CedarBranch": {
+    "HighQuality": false,
+    "Id__Ri": "5403",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "50",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Cedar Branch",
+    "Quantity": "0",
+    "Zone__Ri": "Riversmeet"
+  },
+  "IceCrystalRiversmeetBtn": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "50",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Riversmeet"
+  },
+  "RainbowCottonBoll": {
+    "HighQuality": false,
+    "Id__Ri": "12597",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Rainbow Cotton Boll",
+    "Quantity": "0",
+    "Zone__Ri": "Twinpools"
+  },
+  "SprigOfMistDill": {
+    "HighQuality": false,
+    "Id__Ri": "12883",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "52",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Sprig of Mist Dill",
+    "Quantity": "0",
+    "Zone__Ri": "Twinpools"
+  },
+  "IceCrystalTwinpoolsBtn51": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Twinpools"
+  },
+  "DarkChestnutOrDarkChestnutLog": {
+    "HighQuality": false,
+    "Id__Ri": "12893",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Dark Chestnut/Dark Chestnut Log",
+    "Quantity": "0",
+    "Zone__Ri": "The Smoldering Wastes"
+  },
+  "DarkChestnutOrDarkChestnutBranch": {
+    "HighQuality": false,
+    "Id__Ri": "12893",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Dark Chestnut/Dark Chestnut Branch",
+    "Quantity": "0",
+    "Zone__Ri": "The Smoldering Wastes"
+  },
+  "DarkChestnutOrFireCrystal": {
+    "HighQuality": false,
+    "Id__Ri": "12893",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Dark Chestnut/Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "The Smoldering Wastes"
+  },
+  "DarkChestnutLog": {
+    "HighQuality": false,
+    "Id__Ri": "12578",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "54",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Dark Chestnut Log",
+    "Quantity": "0",
+    "Zone__Ri": "The Smoldering Wastes"
+  },
+  "DarkChestnutBranch": {
+    "HighQuality": false,
+    "Id__Ri": "12585",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Dark Chestnut Branch",
+    "Quantity": "0",
+    "Zone__Ri": "The Smoldering Wastes"
+  },
+  "FireCrystalTheSmolderingWastesBtn": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "The Smoldering Wastes"
+  },
+  "CyclopsOnionOrHighlandWheat": {
+    "HighQuality": false,
+    "Id__Ri": "12878",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "53",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Cyclops Onion/Highland Wheat",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "CyclopsOnionOrStalkOfRamie": {
+    "HighQuality": false,
+    "Id__Ri": "12878",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "53",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Cyclops Onion/Stalk of Ramie",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "CyclopsOnionOrFireCrystal": {
+    "HighQuality": false,
+    "Id__Ri": "12878",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "53",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Cyclops Onion/Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "HighlandWheat": {
+    "HighQuality": false,
+    "Id__Ri": "12880",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "53",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Highland Wheat",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "StalkOfRamie": {
+    "HighQuality": false,
+    "Id__Ri": "12598",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "54",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Stalk of Ramie",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "FireCrystalChocoboForestBtn": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Chocobo Forest"
+  },
+  "EmeraldBeansOrMagmaBeet": {
+    "HighQuality": false,
+    "Id__Ri": "12879",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Emerald Beans/Magma Beet",
+    "Quantity": "0",
+    "Zone__Ri": "Landlord Colony"
+  },
+  "EmeraldBeansOrEarthCrystal": {
+    "HighQuality": false,
+    "Id__Ri": "12879",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Emerald Beans/Earth Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Landlord Colony"
+  },
+  "MagmaBeet": {
+    "HighQuality": false,
+    "Id__Ri": "12885",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "55",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Magma Beet",
+    "Quantity": "0",
+    "Zone__Ri": "Landlord Colony"
+  },
+  "EarthCrystalLandlordColonyBtn": {
+    "HighQuality": false,
+    "Id__Ri": "11",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "51",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Earth Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Landlord Colony"
+  },
+  "WhitefrostCottonBoll": {
+    "HighQuality": false,
+    "Id__Ri": "14956",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "60",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Whitefrost Cotton Boll",
+    "Quantity": "0",
+    "Zone__Ri": "Twinpools"
+  },
+  "Coriander": {
+    "HighQuality": false,
+    "Id__Ri": "12643",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "59",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Coriander",
+    "Quantity": "0",
+    "Zone__Ri": "Twinpools"
+  },
+  "Rue": {
+    "HighQuality": false,
+    "Id__Ri": "12642",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "58",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Rue",
+    "Quantity": "0",
+    "Zone__Ri": "Twinpools"
+  },
+  "IceCrystalTwinpoolsBtn56": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Coerthas Western Highlands",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Twinpools"
+  },
+  "BirchLogOrBirchBranch": {
+    "HighQuality": false,
+    "Id__Ri": "12579",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "58",
+    "Map__Ri": "Sea of Clouds",
+    "Name__Ri": "Birch Log/Birch Branch",
+    "Quantity": "0",
+    "Zone__Ri": "Voor Sian Siran"
+  },
+  "BirchLogOrBirchSap": {
+    "HighQuality": false,
+    "Id__Ri": "12579",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "58",
+    "Map__Ri": "Sea of Clouds",
+    "Name__Ri": "Birch Log/Birch Sap",
+    "Quantity": "0",
+    "Zone__Ri": "Voor Sian Siran"
+  },
+  "BirchLogOrWaterCrystal": {
+    "HighQuality": false,
+    "Id__Ri": "12579",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "58",
+    "Map__Ri": "Sea of Clouds",
+    "Name__Ri": "Birch Log/Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Voor Sian Siran"
+  },
+  "BirchBranch": {
+    "HighQuality": false,
+    "Id__Ri": "12586",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "58",
+    "Map__Ri": "Sea of Clouds",
+    "Name__Ri": "Birch Branch",
+    "Quantity": "0",
+    "Zone__Ri": "Voor Sian Siran"
+  },
+  "BirchSap": {
+    "HighQuality": false,
+    "Id__Ri": "12891",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "59",
+    "Map__Ri": "Sea of Clouds",
+    "Name__Ri": "Birch Sap",
+    "Quantity": "0",
+    "Zone__Ri": "Voor Sian Siran"
+  },
+  "WaterCrystalVoorSianSiranBtn": {
+    "HighQuality": false,
+    "Id__Ri": "13",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Sea of Clouds",
+    "Name__Ri": "Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Voor Sian Siran"
+  },
+  "Coneflower": {
+    "HighQuality": false,
+    "Id__Ri": "12638",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Coneflower",
+    "Quantity": "0",
+    "Zone__Ri": "Avalonia Fallen"
+  },
+  "FireCrystalAvaloniaFallenBtn": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Dravanian Forelands",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Avalonia Fallen"
+  },
+  "CamphorwoodBranch": {
+    "HighQuality": false,
+    "Id__Ri": "14160",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "60",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Camphorwood Branch",
+    "Quantity": "0",
+    "Zone__Ri": "Eil Thom"
+  },
+  "CamphorwoodLog": {
+    "HighQuality": false,
+    "Id__Ri": "14159",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "60",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Camphorwood Log",
+    "Quantity": "0",
+    "Zone__Ri": "Eil Thom"
+  },
+  "EarthCrystalEilThom": {
+    "HighQuality": false,
+    "Id__Ri": "11",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Earth Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Eil Thom"
+  },
+  "Dandelion": {
+    "HighQuality": false,
+    "Id__Ri": "12640",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "59",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Dandelion",
+    "Quantity": "0",
+    "Zone__Ri": "Four Arms"
+  },
+  "EarthCrystalFourArms": {
+    "HighQuality": false,
+    "Id__Ri": "11",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Churning Mists",
+    "Name__Ri": "Earth Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Four Arms"
+  },
+  "CowBitter": {
+    "HighQuality": false,
+    "Id__Ri": "12639",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "57",
+    "Map__Ri": "Dravanian Hinterlands",
+    "Name__Ri": "Cow Bitter",
+    "Quantity": "0",
+    "Zone__Ri": "The Answering Quarter"
+  },
+  "Gaelicatnip": {
+    "HighQuality": false,
+    "Id__Ri": "12641",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "60",
+    "Map__Ri": "Dravanian Hinterlands",
+    "Name__Ri": "Gaelicatnip",
+    "Quantity": "0",
+    "Zone__Ri": "The Answering Quarter"
+  },
+  "WindCrystalTheAnsweringQuarter": {
+    "HighQuality": false,
+    "Id__Ri": "10",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "56",
+    "Map__Ri": "Dravanian Hinterlands",
+    "Name__Ri": "Wind Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "The Answering Quarter"
+  },
+  "GyrAbanianWheat": {
+    "HighQuality": false,
+    "Id__Ri": "19868",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "60",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Gyr Abanian Wheat",
+    "Quantity": "0",
+    "Zone__Ri": "East End"
+  },
+  "Bloodhemp": {
+    "HighQuality": false,
+    "Id__Ri": "19976",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "60",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Bloodhemp",
+    "Quantity": "0",
+    "Zone__Ri": "East End"
+  },
+  "FireCrystalEastEnd60": {
+    "HighQuality": false,
+    "Id__Ri": "10",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "60",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "East End"
+  },
+  "Loquat": {
+    "HighQuality": false,
+    "Id__Ri": "19851",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Loquat",
+    "Quantity": "0",
+    "Zone__Ri": "East End"
+  },
+  "BeechLog": {
+    "HighQuality": false,
+    "Id__Ri": "19930",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Beech Log",
+    "Quantity": "0",
+    "Zone__Ri": "East End"
+  },
+  "FireCrystalEastEnd65": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "East End"
+  },
+  "LarchLog": {
+    "HighQuality": false,
+    "Id__Ri": "19931",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "63",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Larch Log",
+    "Quantity": "0",
+    "Zone__Ri": "Onokoro"
+  },
+  "ShiitakeMushroom": {
+    "HighQuality": false,
+    "Id__Ri": "19863",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "65",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Shiitake Mushroom",
+    "Quantity": "0",
+    "Zone__Ri": "Onokoro"
+  },
+  "WaterCrystalOnokoro": {
+    "HighQuality": false,
+    "Id__Ri": "13",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Onokoro"
+  },
+  "PineResin": {
+    "HighQuality": false,
+    "Id__Ri": "19908",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "64",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Pine Resin",
+    "Quantity": "0",
+    "Zone__Ri": "The Heron's Flight"
+  },
+  "PineLog": {
+    "HighQuality": false,
+    "Id__Ri": "5389",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "65",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Pine Log",
+    "Quantity": "0",
+    "Zone__Ri": "The Heron's Flight"
+  },
+  "WindCrystalTheHeronsFlight": {
+    "HighQuality": false,
+    "Id__Ri": "10",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "63",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Wind Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "The Heron's Flight"
+  },
+  "MountainPopoto": {
+    "HighQuality": false,
+    "Id__Ri": "19861",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "62",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Mountain Popoto",
+    "Quantity": "0",
+    "Zone__Ri": "The Last Forest"
+  },
+  "BuckwheatKernels": {
+    "HighQuality": false,
+    "Id__Ri": "19850",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "62",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Buckwheat Kernels",
+    "Quantity": "0",
+    "Zone__Ri": "The Last Forest"
+  },
+  "SugarBeet": {
+    "HighQuality": false,
+    "Id__Ri": "19856",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "64",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Sugar Beet",
+    "Quantity": "0",
+    "Zone__Ri": "The Last Forest"
+  },
+  "GreenLeek": {
+    "HighQuality": false,
+    "Id__Ri": "19859",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "64",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Green Leek",
+    "Quantity": "0",
+    "Zone__Ri": "The Last Forest"
+  },
+  "LightningCrystalTheLastForest": {
+    "HighQuality": false,
+    "Id__Ri": "12",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Lightning Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "The Last Forest"
+  },
+  "GemAlgae": {
+    "HighQuality": false,
+    "Id__Ri": "19881",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "62",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Gem Algae",
+    "Quantity": "0",
+    "Zone__Ri": "Rasen Kaikyo"
+  },
+  "RubyCottonBoll": {
+    "HighQuality": false,
+    "Id__Ri": "19979",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "63",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Ruby Cotton Boll",
+    "Quantity": "0",
+    "Zone__Ri": "Rasen Kaikyo"
+  },
+  "AmaNori": {
+    "HighQuality": false,
+    "Id__Ri": "19879",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "64",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Ama Nori",
+    "Quantity": "0",
+    "Zone__Ri": "Rasen Kaikyo"
+  },
+  "WaterCrystalRasenKaikyoBtn65": {
+    "HighQuality": false,
+    "Id__Ri": "13",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Rasen Kaikyo"
+  },
+  "WildPopoto": {
+    "HighQuality": false,
+    "Id__Ri": "17945",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "63",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Wild Popoto",
+    "Quantity": "0",
+    "Zone__Ri": "Dimwold"
+  },
+  "HolyBasil": {
+    "HighQuality": false,
+    "Id__Ri": "19917",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "63",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Holy Basil",
+    "Quantity": "0",
+    "Zone__Ri": "Dimwold"
+  },
+  "KudzuRoot": {
+    "HighQuality": false,
+    "Id__Ri": "19853",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "65",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Kudzu Root",
+    "Quantity": "0",
+    "Zone__Ri": "Dimwold"
+  },
+  "KudzuVine": {
+    "HighQuality": false,
+    "Id__Ri": "19982",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "65",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Kudzu Vine",
+    "Quantity": "0",
+    "Zone__Ri": "Dimwold"
+  },
+  "FireCrystalDimwold65": {
+    "HighQuality": false,
+    "Id__Ri": "19879",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Dimwold"
+  },
+  "WalkersPopoto": {
+    "HighQuality": false,
+    "Id__Ri": "17946",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "65",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Walker's Popoto",
+    "Quantity": "0",
+    "Zone__Ri": "East Othard Coastline"
+  },
+  "Soybeans": {
+    "HighQuality": false,
+    "Id__Ri": "19862",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "64",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Soybeans",
+    "Quantity": "0",
+    "Zone__Ri": "East Othard Coastline"
+  },
+  "CuminSeeds": {
+    "HighQuality": false,
+    "Id__Ri": "19864",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "65",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Cumin Seeds",
+    "Quantity": "0",
+    "Zone__Ri": "East Othard Coastline"
+  },
+  "WaterCrystalEastOthardCoastline": {
+    "HighQuality": false,
+    "Id__Ri": "13",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "East Othard Coastline"
+  },
+  "PersimmonLeaf": {
+    "HighQuality": false,
+    "Id__Ri": "19870",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Persimmon Leaf",
+    "Quantity": "0",
+    "Zone__Ri": "Dimwold"
+  },
+  "Persimmon": {
+    "HighQuality": false,
+    "Id__Ri": "19869",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "67",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Persimmon",
+    "Quantity": "0",
+    "Zone__Ri": "Dimwold"
+  },
+  "PersimmonLog": {
+    "HighQuality": false,
+    "Id__Ri": "19932",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "67",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Persimmon Log",
+    "Quantity": "0",
+    "Zone__Ri": "Dimwold"
+  },
+  "FireCrystalDimwold70": {
+    "HighQuality": false,
+    "Id__Ri": "8",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Fire Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Dimwold"
+  },
+  "ZelkovaLog": {
+    "HighQuality": false,
+    "Id__Ri": "19933",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "70",
+    "Map__Ri": "The Lochs",
+    "Name__Ri": "Zelkova Log",
+    "Quantity": "0",
+    "Zone__Ri": "Abalathia's Skull"
+  },
+  "IceCrystalAbalathiasSkull": {
+    "HighQuality": false,
+    "Id__Ri": "9",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Lochs",
+    "Name__Ri": "Ice Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Abalathia's Skull"
+  },
+  "DaikonRadish": {
+    "HighQuality": false,
+    "Id__Ri": "19855",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "66",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Daikon Radish",
+    "Quantity": "0",
+    "Zone__Ri": "Doma"
+  },
+  "NagxianCudweed": {
+    "HighQuality": false,
+    "Id__Ri": "19913",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "68",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Nagxian Cudweed",
+    "Quantity": "0",
+    "Zone__Ri": "Doma"
+  },
+  "YanxianParsley": {
+    "HighQuality": false,
+    "Id__Ri": "19911",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "68",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Yanxian Parsley",
+    "Quantity": "0",
+    "Zone__Ri": "Doma"
+  },
+  "DomanEggplant": {
+    "HighQuality": false,
+    "Id__Ri": "19854",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "69",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Doman Eggplant",
+    "Quantity": "0",
+    "Zone__Ri": "Doma"
+  },
+  "WindCrystalDoma": {
+    "HighQuality": false,
+    "Id__Ri": "10",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "66",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Wind Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Doma"
+  },
+  "GyrAbanianCarrot": {
+    "HighQuality": false,
+    "Id__Ri": "19858",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Gyr Abanian Carrot",
+    "Quantity": "0",
+    "Zone__Ri": "Mount Yorn"
+  },
+  "Alyssum": {
+    "HighQuality": false,
+    "Id__Ri": "19912",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "68",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Alyssum",
+    "Quantity": "0",
+    "Zone__Ri": "Mount Yorn"
+  },
+  "Twincoon": {
+    "HighQuality": false,
+    "Id__Ri": "19989",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "69",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Twincoon",
+    "Quantity": "0",
+    "Zone__Ri": "Mount Yorn"
+  },
+  "LightningCrystalMountYorn": {
+    "HighQuality": false,
+    "Id__Ri": "12",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Lightning Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Mount Yorn"
+  },
+  "SunCabbage": {
+    "HighQuality": false,
+    "Id__Ri": "19866",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Sun Cabbage",
+    "Quantity": "0",
+    "Zone__Ri": "Nhaama's Retreat"
+  },
+  "Fennel": {
+    "HighQuality": false,
+    "Id__Ri": "19867",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Fennel",
+    "Quantity": "0",
+    "Zone__Ri": "Nhaama's Retreat"
+  },
+  "Nipplewort": {
+    "HighQuality": false,
+    "Id__Ri": "19915",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "68",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Nipplewort",
+    "Quantity": "0",
+    "Zone__Ri": "Nhaama's Retreat"
+  },
+  "Chickweed": {
+    "HighQuality": false,
+    "Id__Ri": "19914",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "68",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Chickweed",
+    "Quantity": "0",
+    "Zone__Ri": "Nhaama's Retreat"
+  },
+  "EarthCrystalNhaamasRetreat": {
+    "HighQuality": false,
+    "Id__Ri": "11",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "66",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Earth Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Nhaama's Retreat"
+  },
+  "Nanoriso": {
+    "HighQuality": false,
+    "Id__Ri": "17947",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "68",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Nanoriso",
+    "Quantity": "0",
+    "Zone__Ri": "Rasen Kaikyo"
+  },
+  "RubyTideKelp": {
+    "HighQuality": false,
+    "Id__Ri": "19880",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "67",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Ruby Tide Kelp",
+    "Quantity": "0",
+    "Zone__Ri": "Rasen Kaikyo"
+  },
+  "WaterCrystalRasenKaikyoBtn70": {
+    "HighQuality": false,
+    "Id__Ri": "13",
+    "Job__Ri": "Botanist",
+    "Lvl__Ri": "68",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Water Crystal",
+    "Quantity": "0",
+    "Zone__Ri": "Rasen Kaikyo"
+  },
+  "GaganaEgg": {
+    "HighQuality": false,
+    "Id__Ri": "19877",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Gagana Egg",
+    "Quantity": "0",
+    "Zone__Ri": "The Striped Hills"
+  },
+  "MuudSuudHorn": {
+    "HighQuality": false,
+    "Id__Ri": "19919",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "61",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Muud Suud Horn",
+    "Quantity": "0",
+    "Zone__Ri": "Rustrock"
+  },
+  "GaganaSkin": {
+    "HighQuality": false,
+    "Id__Ri": "19999",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "62",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Gagana Skin",
+    "Quantity": "0",
+    "Zone__Ri": "The Striped Hills"
+  },
+  "RhinoBeetleCarapace": {
+    "HighQuality": false,
+    "Id__Ri": "19924",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "62",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Rhino Beetle Carapace",
+    "Quantity": "0",
+    "Zone__Ri": "Rustrock"
+  },
+  "MothScales": {
+    "HighQuality": false,
+    "Id__Ri": "19922",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "62",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "Moth Scales",
+    "Quantity": "0",
+    "Zone__Ri": "The Last Forest"
+  },
+  "HornbillTenderloin": {
+    "HighQuality": false,
+    "Id__Ri": "19874",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "63",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Hornbill Tenderloin",
+    "Quantity": "0",
+    "Zone__Ri": "The Isle of Bekko"
+  },
+  "BombfishSpine": {
+    "HighQuality": false,
+    "Id__Ri": "19923",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "63",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Bombfish Spine",
+    "Quantity": "0",
+    "Zone__Ri": "Sakazuki"
+  },
+  "GyukiHide": {
+    "HighQuality": false,
+    "Id__Ri": "20000",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "64",
+    "Map__Ri": "The Ruby Sea",
+    "Name__Ri": "Gyuki Hide",
+    "Quantity": "0",
+    "Zone__Ri": "East Othard Coastline"
+  },
+  "DzoHorn": {
+    "HighQuality": false,
+    "Id__Ri": "19921",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "65",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Dzo Horn",
+    "Quantity": "0",
+    "Zone__Ri": "The Sea of Blades"
+  },
+  "SteppeMilk": {
+    "HighQuality": false,
+    "Id__Ri": "19878",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "66",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Steppe Milk",
+    "Quantity": "0",
+    "Zone__Ri": "The Sea of Blades"
+  },
+  "DzoChuck": {
+    "HighQuality": false,
+    "Id__Ri": "19873",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "66",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Dzo Chuck",
+    "Quantity": "0",
+    "Zone__Ri": "The Sea of Blades"
+  },
+  "TigerSkin": {
+    "HighQuality": false,
+    "Id__Ri": "20001",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "66",
+    "Map__Ri": "Yanxia",
+    "Name__Ri": "Tiger Skin",
+    "Quantity": "0",
+    "Zone__Ri": "The Gensui Chain"
+  },
+  "HalgaiMane": {
+    "HighQuality": false,
+    "Id__Ri": "19985",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "67",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Halgai Mane",
+    "Quantity": "0",
+    "Zone__Ri": "Onsal Hakair"
+  },
+  "GazelleHorn": {
+    "HighQuality": false,
+    "Id__Ri": "19920",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "67",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Gazelle Horn",
+    "Quantity": "0",
+    "Zone__Ri": "Virdjala"
+  },
+  "ManzasiriHair": {
+    "HighQuality": false,
+    "Id__Ri": "19986",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "68",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Manzasiri Hair",
+    "Quantity": "0",
+    "Zone__Ri": "Nhaama's Retreat"
+  },
+  "MaridHide": {
+    "HighQuality": false,
+    "Id__Ri": "20002",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "68",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Marid Hide",
+    "Quantity": "0",
+    "Zone__Ri": "Onsal Hakair"
+  },
+  "JhammelHaunch": {
+    "HighQuality": false,
+    "Id__Ri": "19875",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "69",
+    "Map__Ri": "The Azim Steppe",
+    "Name__Ri": "Jhammel Haunch",
+    "Quantity": "0",
+    "Zone__Ri": "Mount Yorn"
+  },
+  "GazelleHide": {
+    "HighQuality": false,
+    "Id__Ri": "20003",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "70",
+    "Map__Ri": "The Fringes",
+    "Name__Ri": "Gazelle Hide",
+    "Quantity": "0",
+    "Zone__Ri": "Virdjala"
+  },
+  "TrueGriffinHide": {
+    "HighQuality": false,
+    "Id__Ri": "20004",
+    "Job__Ri": "Combatant",
+    "Lvl__Ri": "70",
+    "Map__Ri": "The Peaks",
+    "Name__Ri": "True Griffin Hide",
+    "Quantity": "0",
+    "Zone__Ri": "Specula Imperatoris"
+  },
+  "FilterStringSnorlax": "hardsilver",
+  "SpiritBondSlowpoke": false,
+  "OrderModeSlowpoke": false,
+  "EnableKeeperSlowpoke": true,
+  "PatienceSlowpoke": {
+    "Key": "Patience",
+    "Value": "Patience"
+  },
+  "CordialTypeSlowpoke": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "MinimumGpPatienceSlowpoke": "600",
+  "ResetHourSlowpoke": {
+    "Key": "0",
+    "Value": "12 AM"
+  },
+  "UsuginuOctopus": {
+    "Baits__Rf": "Live Shrimp*",
+    "Categ__Rf": "Crafting Material (4.2)",
+    "HighQuality": false,
+    "Id__Rf": "22393",
+    "Name__Rf": "Usuginu Octopus",
+    "Folklore__Rf": "Yes",
+    "Quantity": "0",
+    "Zone__Rf": "The Isle of Bekko"
+  },
+  "TinyTatsunoko": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Minion (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20528",
+    "Name__Rf": "Tiny Tatsunoko",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Kobayashi Maru"
+  },
+  "Flamefish": {
+    "Baits__Rf": "Large Gig*",
+    "Categ__Rf": "Grand Company (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20231",
+    "Name__Rf": "Flamefish",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Azim Khaat Western Lakebed"
+  },
+  "MotleyBeakfish": {
+    "Baits__Rf": "Large Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20226",
+    "Name__Rf": "Motley Beakfish",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Kobayashi Maru"
+  },
+  "IvorySole": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20225",
+    "Name__Rf": "Ivory Sole",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "LS Southeastern Lakebed"
+  },
+  "RiverBream": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20218",
+    "Name__Rf": "River Bream",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Sunken Junk"
+  },
+  "BashfulBatfish": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Grand Company (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20217",
+    "Name__Rf": "Bashful Batfish",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Kobayashi Maru"
+  },
+  "TitheCollector": {
+    "Baits__Rf": "Large Gig*",
+    "Categ__Rf": "Grand Company (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20216",
+    "Name__Rf": "Tithe Collector",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "LS Southeastern Lakebed"
+  },
+  "DomanBubbleEye": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Leve (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20211",
+    "Name__Rf": "Doman Bubble Eye",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Sunken Junk"
+  },
+  "SpinyLobster": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20209",
+    "Name__Rf": "Spiny Lobster",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Kobayashi Maru"
+  },
+  "CarpenterCrab": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20208",
+    "Name__Rf": "Carpenter Crab",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "LS Southeastern Lakebed"
+  },
+  "RiverClam": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20203",
+    "Name__Rf": "River Clam",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Azim Khaat Eastern Lakebed"
+  },
+  "DotharliGudgeon": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Grand Company (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20202",
+    "Name__Rf": "Dotharli Gudgeon",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Azim Khaat Western Lakebed"
+  },
+  "Amberjack": {
+    "Baits__Rf": "Large Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20199",
+    "Name__Rf": "Amberjack",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Kobayashi Maru"
+  },
+  "SeaLamp": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Leve (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20198",
+    "Name__Rf": "Sea Lamp",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Kobayashi Maru"
+  },
+  "Redfin": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Leve (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20193",
+    "Name__Rf": "Redfin",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Azim Khaat Eastern Lakebed"
+  },
+  "SteppeBullfrog": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20191",
+    "Name__Rf": "Steppe Bullfrog",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Azim Khaat Western Lakebed"
+  },
+  "TenguFan": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Grand Company (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20188",
+    "Name__Rf": "Tengu Fan",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Sunken Junk"
+  },
+  "YanxianTigerPrawn": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20187",
+    "Name__Rf": "Yanxian Tiger Prawn",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Sunken Junk"
+  },
+  "RedEyedLates": {
+    "Baits__Rf": "Large Gig*",
+    "Categ__Rf": "Grand Company (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20182",
+    "Name__Rf": "Red-eyed Lates",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Shisui of the Violet Tides"
+  },
+  "Swordtip": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20179",
+    "Name__Rf": "Swordtip",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Tamamizu"
+  },
+  "HermitGoby": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Grand Company (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20177",
+    "Name__Rf": "Hermit Goby",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Southern Riverbeds"
+  },
+  "GauntletCrab": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20176",
+    "Name__Rf": "Gauntlet Crab",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Southwestern Riverbeds"
+  },
+  "HornedTurban": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20174",
+    "Name__Rf": "Horned Turban",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Adventure"
+  },
+  "CorpseEater": {
+    "Baits__Rf": "Large Gig*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20171",
+    "Name__Rf": "Corpse-eater",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Ruby Price Depths"
+  },
+  "Brindlebass": {
+    "Baits__Rf": "Large Gig*",
+    "Categ__Rf": "Grand Company (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20166",
+    "Name__Rf": "Brindlebass",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Adventure"
+  },
+  "EasternSeaPickle": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Leve (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20165",
+    "Name__Rf": "Eastern Sea Pickle",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Sui-no-Sato"
+  },
+  "CommonWhelk": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Leve (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20160",
+    "Name__Rf": "Common Whelk",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Southern Riverbeds"
+  },
+  "GlassManta": {
+    "Baits__Rf": "Large Gig*",
+    "Categ__Rf": "Leve (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20146",
+    "Name__Rf": "Glass Manta",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Tamamizu"
+  },
+  "ZekkiGrouper": {
+    "Baits__Rf": "Live Shrimp*",
+    "Categ__Rf": "Crafting Material (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20038",
+    "Name__Rf": "Zekki Grouper",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Isle of Zekki"
+  },
+  "Dafangshi": {
+    "Baits__Rf": "Small Gig*",
+    "Categ__Rf": "Quest (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "17951",
+    "Name__Rf": "Dafangshi",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Sunken Junk"
+  },
+  "SnowCrab": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Ephemeral Fish (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20181",
+    "Name__Rf": "Snow Crab",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Adventure"
+  },
+  "FalseScad": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Ephemeral Fish (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20180",
+    "Name__Rf": "False Scad",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Sui-no-Sato"
+  },
+  "Sweatfish": {
+    "Baits__Rf": "Stonefly Larva",
+    "Categ__Rf": "Ephemeral Fish (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20024",
+    "Name__Rf": "Sweatfish",
+    "Folklore__Rf": "Yes",
+    "Quantity": "0",
+    "Zone__Rf": "Azim Khaat"
+  },
+  "Fangshi": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Yellow Scrips (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20230",
+    "Name__Rf": "Fangshi",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Sunken Junk"
+  },
+  "Thousandfang": {
+    "Baits__Rf": "Large Gig*",
+    "Categ__Rf": "Yellow Scrips (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20227",
+    "Name__Rf": "Thousandfang",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Kobayashi Maru"
+  },
+  "AlaMhiganRibbon": {
+    "Baits__Rf": "Suspending Minnow\nStonefly Larva",
+    "Categ__Rf": "Yellow Scrips (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20019",
+    "Name__Rf": "Ala Mhigan Ribbon",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Arms of Meed"
+  },
+  "Cherubfish": {
+    "Baits__Rf": "Normal Gig*",
+    "Categ__Rf": "Red Scrips (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20220",
+    "Name__Rf": "Cherubfish",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Sunken Junk"
+  },
+  "MitsukuriShark": {
+    "Baits__Rf": "Large Gig*",
+    "Categ__Rf": "Red Scrips (4.0)",
+    "HighQuality": false,
+    "Id__Rf": "20210",
+    "Name__Rf": "Mitsukuri Shark",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Kobayashi Maru"
+  },
+  "RiverShrimp": {
+    "Baits__Rf": "Brute Leech",
+    "Categ__Rf": "Zhloe (3.5)",
+    "HighQuality": false,
+    "Id__Rf": "17566",
+    "Name__Rf": "River Shrimp",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Hundred Throes"
+  },
+  "LoversClam": {
+    "Baits__Rf": "Bladed Steel Jig",
+    "Categ__Rf": "Zhloe (3.5)",
+    "HighQuality": false,
+    "Id__Rf": "17565",
+    "Name__Rf": "Lovers' Clam",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Weston Waters"
+  },
+  "RedSkyCoral": {
+    "Baits__Rf": "Bladed Steel Jig",
+    "Categ__Rf": "Zhloe (3.5)",
+    "HighQuality": false,
+    "Id__Rf": "17564",
+    "Name__Rf": "Red Sky Coral",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Eddies"
+  },
+  "GhostFaerie": {
+    "Baits__Rf": "Stonefly Nymph*",
+    "Categ__Rf": "Zhloe (3.5)",
+    "HighQuality": false,
+    "Id__Rf": "17563",
+    "Name__Rf": "Ghost Faerie",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Clearpool"
+  },
+  "ThavnairianLeaf": {
+    "Baits__Rf": "Stonefly Nymph*",
+    "Categ__Rf": "Zhloe (3.5)",
+    "HighQuality": false,
+    "Id__Rf": "17562",
+    "Name__Rf": "Thavnairian Leaf",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Upper Thaliak River"
+  },
+  "AetherochemicalCompound666": {
+    "Baits__Rf": "Fiend Worm",
+    "Categ__Rf": "Big Fish (3.4)",
+    "HighQuality": false,
+    "Id__Rf": "16752",
+    "Name__Rf": "A. Compound #666",
+    "Folklore__Rf": "Yes",
+    "Quantity": "0",
+    "Zone__Rf": "Aetherochemical Spill"
+  },
+  "AugmentedHighAllaganHelmet": {
+    "Baits__Rf": "Fiend Worm",
+    "Categ__Rf": "Big Fish (3.3)",
+    "HighQuality": false,
+    "Id__Rf": "15637",
+    "Name__Rf": "Augmented HA Helmet",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Alpha Quadrant"
+  },
+  "TheEwerKing": {
+    "Baits__Rf": "Bladed Steel Jig",
+    "Categ__Rf": "Big Fish (3.3)",
+    "HighQuality": false,
+    "Id__Rf": "15632",
+    "Name__Rf": "The Ewer King",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Thaliak River"
+  },
+  "LaReale": {
+    "Baits__Rf": "Brute Leech",
+    "Categ__Rf": "Big Fish (3.3)",
+    "HighQuality": false,
+    "Id__Rf": "15628",
+    "Name__Rf": "La Reale",
+    "Folklore__Rf": "Yes",
+    "Quantity": "0",
+    "Zone__Rf": "Ashpool"
+  },
+  "TheImpaler": {
+    "Baits__Rf": "Brute Leech",
+    "Categ__Rf": "Big Fish (3.3)",
+    "HighQuality": false,
+    "Id__Rf": "15627",
+    "Name__Rf": "The Impaler",
+    "Folklore__Rf": "Yes",
+    "Quantity": "0",
+    "Zone__Rf": "Dragonspit"
+  },
+  "FatPurse": {
+    "Baits__Rf": "Brute Leech",
+    "Categ__Rf": "Big Fish (3.3)",
+    "HighQuality": false,
+    "Id__Rf": "15626",
+    "Name__Rf": "Fat Purse",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Riversmeet"
+  },
+  "MagicBucket": {
+    "Baits__Rf": "Brute Leech",
+    "Categ__Rf": "Minion (3.3)",
+    "HighQuality": false,
+    "Id__Rf": "15439",
+    "Name__Rf": "Magic Bucket",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "South Banepool"
+  },
+  "MountainKraken": {
+    "Baits__Rf": "Brute Leech",
+    "Categ__Rf": "Crafting Material (3.2)",
+    "HighQuality": false,
+    "Id__Rf": "14219",
+    "Name__Rf": "Mountain Kraken",
+    "Folklore__Rf": "Yes",
+    "Quantity": "0",
+    "Zone__Rf": "South Banepool"
+  },
+  "CoerthanOyster": {
+    "Baits__Rf": "Brute Leech",
+    "Categ__Rf": "Crafting Material (3.2)",
+    "HighQuality": false,
+    "Id__Rf": "14217",
+    "Name__Rf": "Coerthan Oyster",
+    "Folklore__Rf": "Yes",
+    "Quantity": "0",
+    "Zone__Rf": "West Banepool"
+  },
+  "Priestfish": {
+    "Baits__Rf": "Brute Leech",
+    "Categ__Rf": "Crafting Material (3.2)",
+    "HighQuality": false,
+    "Id__Rf": "14216",
+    "Name__Rf": "Priestfish",
+    "Folklore__Rf": "Yes",
+    "Quantity": "0",
+    "Zone__Rf": "Clearpool"
+  },
+  "Nyctosaur": {
+    "Baits__Rf": "Giant Crane Fly",
+    "Categ__Rf": "Rare Fish (3.2)",
+    "HighQuality": false,
+    "Id__Rf": "14214",
+    "Name__Rf": "Nyctosaur",
+    "Folklore__Rf": "Yes",
+    "Quantity": "0",
+    "Zone__Rf": "Tharl Oom Khash"
+  },
+  "Gnomefish": {
+    "Baits__Rf": "Stonefly Nymph*",
+    "Categ__Rf": "Crafting Material (3.2)",
+    "HighQuality": false,
+    "Id__Rf": "14212",
+    "Name__Rf": "Gnomefish",
+    "Folklore__Rf": "Yes",
+    "Quantity": "0",
+    "Zone__Rf": "Quickspill Delta"
+  },
+  "DravanianSmeltC": {
+    "Baits__Rf": "Brute Leech",
+    "Categ__Rf": "Red Scrips (3.1)",
+    "HighQuality": false,
+    "Id__Rf": "13729",
+    "Name__Rf": "Dravanian Smelt",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Hundred Throes"
+  },
+  "UnidentifiedFlyingBiomass": {
+    "Baits__Rf": "Red Balloon*",
+    "Categ__Rf": "Crafting Material (3.0)",
+    "HighQuality": false,
+    "Id__Rf": "12808",
+    "Name__Rf": "U. Flying Biomass",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Habisphere"
+  },
+  "Sweetfish": {
+    "Baits__Rf": "Goblin Jig\nBladed Steel Jig\nBrute Leech",
+    "Categ__Rf": "Crafting Material (3.0)",
+    "HighQuality": false,
+    "Id__Rf": "12780",
+    "Name__Rf": "Sweetfish",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Upper Thaliak River"
+  },
+  "Mogpom": {
+    "Baits__Rf": "Goblin Jig\nBladed Steel Jig\nBrute Leech",
+    "Categ__Rf": "Crafting Material (3.0)",
+    "HighQuality": false,
+    "Id__Rf": "12758",
+    "Name__Rf": "Mogpom",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Greensward"
+  },
+  "BlueCloudCoral": {
+    "Baits__Rf": "Red Balloon*",
+    "Categ__Rf": "Crafting Material/Leve (3.0)",
+    "HighQuality": false,
+    "Id__Rf": "12736",
+    "Name__Rf": "Blue Cloud Coral",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Cloudtop"
+  },
+  "RockMussel": {
+    "Baits__Rf": "Goblin Jig",
+    "Categ__Rf": "Crafting Material (3.0)",
+    "HighQuality": false,
+    "Id__Rf": "12733",
+    "Name__Rf": "Rock Mussel",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Smoldering Wastes"
+  },
+  "BlueclawShrimp": {
+    "Baits__Rf": "Stonefly Nymph*",
+    "Categ__Rf": "Crafting Material (3.0)",
+    "HighQuality": false,
+    "Id__Rf": "12722",
+    "Name__Rf": "Blueclaw Shrimp",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Iron Feast"
+  },
+  "FangedClam": {
+    "Baits__Rf": "Goblin Jig",
+    "Categ__Rf": "Crafting Material (3.0)",
+    "HighQuality": false,
+    "Id__Rf": "12719",
+    "Name__Rf": "Fanged Clam",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "West Banepool"
+  },
+  "CoerthanCrab": {
+    "Baits__Rf": "Stonefly Nymph*",
+    "Categ__Rf": "Crafting Material (3.0)",
+    "HighQuality": false,
+    "Id__Rf": "12718",
+    "Name__Rf": "Coerthan Crab",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Riversmeet"
+  },
+  "SilverSovereign": {
+    "Baits__Rf": "Yumizuno",
+    "Categ__Rf": "Big Fish (2.2)",
+    "HighQuality": false,
+    "Id__Rf": "7690",
+    "Name__Rf": "Silver Sovereign",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Oschon's Torch"
+  },
+  "VelodynaCarp": {
+    "Baits__Rf": "Wildfowl Fly*",
+    "Categ__Rf": "Crafting Material (2.0)",
+    "HighQuality": false,
+    "Id__Rf": "4982",
+    "Name__Rf": "Velodyna Carp",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Sylphlands"
+  },
+  "SilverShark": {
+    "Baits__Rf": "Lugworm*",
+    "Categ__Rf": "Crafting Material (2.0)",
+    "HighQuality": false,
+    "Id__Rf": "4903",
+    "Name__Rf": "Silver Shark",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "South Bloodshore"
+  },
+  "AshTuna": {
+    "Baits__Rf": "Steel Jig*",
+    "Categ__Rf": "Crafting Material (2.0)",
+    "HighQuality": false,
+    "Id__Rf": "4896",
+    "Name__Rf": "Ash Tuna",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "Rhotano Sea (F)"
+  },
+  "HammerheadShark": {
+    "Baits__Rf": "Steel Jig*",
+    "Categ__Rf": "Crafting Material (2.0)",
+    "HighQuality": false,
+    "Id__Rf": "4893",
+    "Name__Rf": "Hammerhead Shark",
+    "Folklore__Rf": "No",
+    "Quantity": "0",
+    "Zone__Rf": "The Silver Bazaar"
+  },
+  "FilterStringSlowpoke": "",
+  "TimedModeOnix": false,
+  "ReduceAtWaitingAetheryteOnix": true,
+  "CordialTimeOnix": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "GatherHighlandOreganoOnix": false,
+  "GatherFurymintOnix": false,
+  "GatherBlackSoilOnix": false,
+  "GatherClarySageOnix": false,
+  "GatherAlmandineOnix": false,
+  "GatherTorreyaBranchOnix": false,
+  "GatherDomanYellowOnix": false,
+  "GatherSchorlOnix": false,
+  "GatherPerliteOnix": false,
+  "GatherWindteaLeavesOnix": false,
+  "Job04Onix": {
+    "Key": "0",
+    "Value": {
+      "Key": "None",
+      "Value": "None"
+    }
+  },
+  "Job48Onix": {
+    "Key": "0",
+    "Value": {
+      "Key": "None",
+      "Value": "None"
+    }
+  },
+  "Job812Onix": {
+    "Key": "0",
+    "Value": {
+      "Key": "None",
+      "Value": "None"
+    }
+  },
+  "Job1216Onix": {
+    "Key": "0",
+    "Value": {
+      "Key": "None",
+      "Value": "None"
+    }
+  },
+  "Job1620Onix": {
+    "Key": "0",
+    "Value": {
+      "Key": "None",
+      "Value": "None"
+    }
+  },
+  "Job2024Onix": {
+    "Key": "0",
+    "Value": {
+      "Key": "None",
+      "Value": "None"
+    }
+  },
+  "Collect1Star04Onix": false,
+  "Collect1Star48Onix": false,
+  "Collect1Star812Onix": false,
+  "Collect1Star1216Onix": false,
+  "Collect1Star1620Onix": false,
+  "Collect1Star2024Onix": false,
+  "Item04Onix": {
+    "Key": "2",
+    "Value": {
+      "Key": "Yanxian Soil",
+      "Value": "Duskglow - Wind"
+    }
+  },
+  "Item48Onix": {
+    "Key": "2",
+    "Value": {
+      "Key": "Yanxian Verbena",
+      "Value": "Duskglow - Lightning"
+    }
+  },
+  "Item812Onix": {
+    "Key": "2",
+    "Value": {
+      "Key": "Yanxian Verbena",
+      "Value": "Duskglow - Lightning"
+    }
+  },
+  "Item1216Onix": {
+    "Key": "6670",
+    "Value": {
+      "Key": "Schorl",
+      "Value": "Dawnlight - Lightning"
+    }
+  },
+  "Item1620Onix": {
+    "Key": "6670",
+    "Value": {
+      "Key": "Windtea Leaves",
+      "Value": "Dawnlight - Wind"
+    }
+  },
+  "Item2024Onix": {
+    "Key": "2",
+    "Value": {
+      "Key": "Yanxian Soil",
+      "Value": "Duskglow - Wind"
+    }
+  },
+  "EnableItems04Onix": false,
+  "EnableItems48Onix": false,
+  "EnableItems812Onix": false,
+  "EnableItems1216Onix": false,
+  "EnableItems1620Onix": false,
+  "EnableItems2024Onix": false,
+  "CollectRate04Onix": {
+    "Key": "346",
+    "Value": {
+      "Key": "346",
+      "Value": "Crystal/Cluster"
+    }
+  },
+  "CollectRate48Onix": {
+    "Key": "346",
+    "Value": {
+      "Key": "346",
+      "Value": "Crystal/Cluster"
+    }
+  },
+  "CollectRate812Onix": {
+    "Key": "346",
+    "Value": {
+      "Key": "346",
+      "Value": "Crystal/Cluster"
+    }
+  },
+  "CollectRate1216Onix": {
+    "Key": "346",
+    "Value": {
+      "Key": "346",
+      "Value": "Crystal/Cluster"
+    }
+  },
+  "CollectRate1620Onix": {
+    "Key": "346",
+    "Value": {
+      "Key": "346",
+      "Value": "Crystal/Cluster"
+    }
+  },
+  "CollectRate2024Onix": {
+    "Key": "346",
+    "Value": {
+      "Key": "346",
+      "Value": "Crystal/Cluster"
+    }
+  },
+  "CordialType04Onix": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType48Onix": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType812Onix": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType1216Onix": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType1620Onix": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialType2024Onix": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "ResetHourMagikarp": {
+    "Key": "0",
+    "Value": "12 AM"
+  },
+  "CordialTypeMagikarp": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "PatienceMagikarp": {
+    "Key": "Patience",
+    "Value": "Patience"
+  },
+  "MinimumGpPatienceMagikarp": "600",
+  "BaitToBuyMagikarp": "10",
+  "DesynthMagikarp": false,
+  "SellMagikarp": false,
+  "EnableKeeperMagikarp": true,
+  "TurnInAfterLoopMagikarp": true,
+  "MinimumFreeSlotTurnInMagikarp": "140",
+  "FishToFishMagikarp": {
+    "Key": "1",
+    "Value": "Auto"
+  },
+  "CordialTypeDitto": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "CordialTimeDitto": {
+    "Key": "Auto",
+    "Value": "Auto"
+  },
+  "Lvl70RateDitto": {
+    "Key": true,
+    "Value": "Yellow Scrips"
+  },
+  "UseGpOnAttemptBonusDitto": false,
+  "ItemToGatherDitto": {
+    "Key": "1",
+    "Value": "None"
+  },
+  "AlternativeItemDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "DatedRadzAtHanCoinQtyDitto": "0",
+  "IceStalagmiteQtyDitto": "0",
+  "DuskfallMossQtyDitto": "0",
+  "GlassEyeQtyDitto": "0",
+  "RainbowPigmentQtyDitto": "0",
+  "DatedRadzAtHanCoinJobDitto": {
+    "Key": "1",
+    "Value": "Miner"
+  },
+  "IceStalagmiteJobnDitto": {
+    "Key": "1",
+    "Value": "Miner"
+  },
+  "DuskfallMossJobDitto": {
+    "Key": "1",
+    "Value": "Miner"
+  },
+  "GlassEyeJobDitto": {
+    "Key": "1",
+    "Value": "Miner"
+  },
+  "RainbowPigmentJobDitto": {
+    "Key": "1",
+    "Value": "Miner"
+  },
+  "ItemDatedRadzAtHanCoinDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "ItemIceStalagmiteDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "ItemDuskfallMossDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "ItemGlassEyeDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "ItemRainbowPigmentDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "StarcrackSandQtyDitto": "0",
+  "ShishuKobanQtyDitto": "0",
+  "CotterDynastyRelicQtyDitto": "0",
+  "PeaksPigmentQtyDitto": "0",
+  "YellowKudzuRootQtyDitto": "0",
+  "StarcrackSandJobDitto": {
+    "Key": "1",
+    "Value": "Miner"
+  },
+  "ShishuKobanJobDitto": {
+    "Key": "1",
+    "Value": "Miner"
+  },
+  "CotterDynastyRelicJobDitto": {
+    "Key": "1",
+    "Value": "Miner"
+  },
+  "PeaksPigmentJobDitto": {
+    "Key": "1",
+    "Value": "Miner"
+  },
+  "YellowKudzuRootJobDitto": {
+    "Key": "1",
+    "Value": "Miner"
+  },
+  "ItemStarcrackSandDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "ItemShishuKobanDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "ItemCotterDynastyRelicDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "ItemPeaksPigmentDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "ItemYellowKudzuRootDitto": {
+    "Key": "None",
+    "Value": "None"
+  },
+  "Version": "0.0.1"
+}
