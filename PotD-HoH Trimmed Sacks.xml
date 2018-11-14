@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE Profile []>
 <Profile>
-    <Name>Trimmed Sacks 2.0</Name>
-    <Author>Lampshade/cfw34683 subverted-Lycorisrda-</Author>
+    <Name>Trimmed Sacks 2.2</Name>
+    <Author>Lampshade/cfw34683</Author>
     <KillRadius>50</KillRadius>
     <CodeChunks>
         <CodeChunk Name="InteractPOTD">
@@ -92,7 +92,7 @@
             }
 			]]>
 		</CodeChunk>
-		<CodeChunk Name="GoldsackHOH">
+		<CodeChunk Name="GoldSackHOH">
 			<![CDATA[
             uint sackid = 23224;
 
@@ -127,7 +127,6 @@
     </CodeChunks>
     <Order>
 		<!-- Palace of the Dead -->
-		<While Condition="FreeItemSlots() &gt; 0">
 			<If Condition="not IsOnMap(153)">
 				<GetTo XYZ="181.2618, 8.928072, -39.13947" ZoneId="153" />
 			</If>            
@@ -156,6 +155,7 @@
 				<RunCode name="GoldSackPOTD" />
 				<WaitTimer WaitTime="3" />
 			</If>
+			<RunCode name="CloseWindow" />
 		<!-- Heaven on High -->
 			<If Condition="not IsOnMap(613)">
 				<GetTo XYZ="-7.370307, 2.892887, -608.9281" ZoneId="613" />
@@ -170,7 +170,7 @@
 			<If Condition="HasAtLeast(23224,1) and FreeItemSlots() &gt; 0">
 				<RunCode name="InteractHOH" />
 				<WaitTimer WaitTime="3" />
-				<RunCode name="GoldsackHOH" />
+				<RunCode name="GoldSackHOH" />
 				<WaitTimer WaitTime="3" />
 			</If>
 			<If Condition="HasAtLeast(23225,1) and FreeItemSlots() &gt; 0">
@@ -179,6 +179,6 @@
 				<RunCode name="PlatinumSackHOH" />
 				<WaitTimer WaitTime="3" />
 			</If>
-		</While>
+			<RunCode name="CloseWindow" />
 	</Order>
 </Profile> 
