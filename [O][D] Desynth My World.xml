@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+as: [O][D] Desynth My World
+BY: cfw34683
+Required Input: enter item ids into area that you want desynth
+IE: <!ENTITY Item_Id "12721, 12730, 12731, 12770, 12794, 12804">
+-->
+<!DOCTYPE Profile [
+  <!ENTITY Item_Id "">
+]>
+
+<Profile>
+	<Name>[O][D] Desynth My World</Name>
+	<Author>cfw34683</Author>
+	<Order>
+		<ExSalvage ItemIds="&Item_Id;" />
+		<ExLog Color="#FF00FFFF" Message="*** Completed Desynthing All Requested Items ***"/>
+	</Order>
+</Profile>
