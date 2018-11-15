@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE Profile []>
 <Profile>
-    <Name>Trimmed Sacks 2.2</Name>
+    <Name>Trimmed Sacks 2.3</Name>
     <Author>Lampshade/cfw34683</Author>
-    <KillRadius>50</KillRadius>
     <CodeChunks>
         <CodeChunk Name="InteractPOTD">
             <![CDATA[
@@ -30,7 +28,6 @@
 		<CodeChunk Name="BronzeSackPOTD">
 			<![CDATA[
             uint sackid = 16170;
-
             while (ff14bot.NeoProfiles.ConditionParser.ItemCount(sackid) > 0 && ff14bot.NeoProfiles.ConditionParser.FreeItemSlots() > 0)
             {
                 RaptureAtkUnitManager.GetWindowByName("ItemAppraisal").SendAction(2, 0, 0, 1, sackid);
@@ -43,7 +40,6 @@
 		<CodeChunk Name="IronSackPOTD">
 			<![CDATA[            
             uint sackid = 16171;
-
             while (ff14bot.NeoProfiles.ConditionParser.ItemCount(sackid) > 0 && ff14bot.NeoProfiles.ConditionParser.FreeItemSlots() > 0)
             {
                 RaptureAtkUnitManager.GetWindowByName("ItemAppraisal").SendAction(2, 0, 0, 1, sackid);
@@ -56,7 +52,6 @@
 		<CodeChunk Name="SilverSackPOTD">
 			<![CDATA[            
             uint sackid = 16172;
-
             while (ff14bot.NeoProfiles.ConditionParser.ItemCount(sackid) > 0 && ff14bot.NeoProfiles.ConditionParser.FreeItemSlots() > 0)
             {
                 RaptureAtkUnitManager.GetWindowByName("ItemAppraisal").SendAction(2, 0, 0, 1, sackid);
@@ -69,7 +64,6 @@
 		<CodeChunk Name="GoldSackPOTD">
 			<![CDATA[
             uint sackid = 16173;
-
             while (ff14bot.NeoProfiles.ConditionParser.ItemCount(sackid) > 0 && ff14bot.NeoProfiles.ConditionParser.FreeItemSlots() > 0)
             {
                 RaptureAtkUnitManager.GetWindowByName("ItemAppraisal").SendAction(2, 0, 0, 1, sackid);
@@ -82,7 +76,6 @@
 		<CodeChunk Name="SilverSackHOH">
 			<![CDATA[
             uint sackid = 23223;
-
             while (ff14bot.NeoProfiles.ConditionParser.ItemCount(sackid) > 0 && ff14bot.NeoProfiles.ConditionParser.FreeItemSlots() > 0)
             {
                 RaptureAtkUnitManager.GetWindowByName("ItemAppraisal").SendAction(2, 0, 0, 1, sackid);
@@ -95,7 +88,6 @@
 		<CodeChunk Name="GoldSackHOH">
 			<![CDATA[
             uint sackid = 23224;
-
             while (ff14bot.NeoProfiles.ConditionParser.ItemCount(sackid) > 0 && ff14bot.NeoProfiles.ConditionParser.FreeItemSlots() > 0)
             {
                 RaptureAtkUnitManager.GetWindowByName("ItemAppraisal").SendAction(2, 0, 0, 1, sackid);
@@ -108,7 +100,6 @@
 		<CodeChunk Name="PlatinumSackHOH">
 			<![CDATA[
             uint sackid = 23225;
-
             while (ff14bot.NeoProfiles.ConditionParser.ItemCount(sackid) > 0 && ff14bot.NeoProfiles.ConditionParser.FreeItemSlots() > 0)
             {
                 RaptureAtkUnitManager.GetWindowByName("ItemAppraisal").SendAction(2, 0, 0, 1, sackid);
@@ -127,6 +118,7 @@
     </CodeChunks>
     <Order>
 		<!-- Palace of the Dead -->
+		<While Condition="HasAtLeast(16170,1) and HasAtLeast(16171,1) and HasAtLeast(16172,1) and HasAtLeast(16173,1)">
 			<If Condition="not IsOnMap(153)">
 				<GetTo XYZ="181.2618, 8.928072, -39.13947" ZoneId="153" />
 			</If>            
@@ -156,7 +148,9 @@
 				<WaitTimer WaitTime="3" />
 			</If>
 			<RunCode name="CloseWindow" />
+		</While>
 		<!-- Heaven on High -->
+		<While Condition="HasAtLeast(23223,1) and HasAtLeast(23224,1) and HasAtLeast(23225,1)">
 			<If Condition="not IsOnMap(613)">
 				<GetTo XYZ="-7.370307, 2.892887, -608.9281" ZoneId="613" />
 			</If>            
@@ -180,5 +174,6 @@
 				<WaitTimer WaitTime="3" />
 			</If>
 			<RunCode name="CloseWindow" />
+		</While>	
 	</Order>
 </Profile> 
