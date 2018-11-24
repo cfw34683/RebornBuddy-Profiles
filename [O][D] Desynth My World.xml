@@ -5,6 +5,9 @@ BY: cfw34683
 Required Input: enter item ids into area that you want desynth
 IE: <!ENTITY Item_Id "12721, 12730, 12731, 12770, 12794, 12804">
 -->
+<!-- Fish IDS the system dont think is desynthable but is
+		8764, Pirate's Bane
+--> 
 <!DOCTYPE Profile [
   <!ENTITY Item_Id "">
 ]>
